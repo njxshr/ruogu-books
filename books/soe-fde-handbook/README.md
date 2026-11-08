@@ -4,7 +4,7 @@
 
 <img src="assets/preview/cover.jpg" alt="《国央企 FDE 工程师实战手册》封面" width="360">
 
-**快速导航：** [完整目录](#完整目录) · [正文预览](#内页预览) · [阅读与下载](#阅读与下载)
+**快速导航：** [完整目录](#user-content-完整目录) · [正文预览](#user-content-内页预览) · [阅读与下载](#user-content-阅读与下载)
 
 ## 基本信息与定位
 
