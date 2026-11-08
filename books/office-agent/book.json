@@ -1,0 +1,35 @@
+{
+  "title": "把办公 Agent 用起来",
+  "subtitle": "从个人提效到组织智能，探索新的工作范式",
+  "author": "李钊",
+  "date": "2026-11-08",
+  "language": "zh-CN",
+  "description": "从个人任务实践走向组织知识共建、系统工具协作，再讨论集团、行业与时代的工作范式变化。",
+  "output_basename": "把办公Agent用起来",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版 · 1.0",
+  "publisher": "若谷书房",
+  "copyright": "© 2026 李钊。AI 辅助结构设计、资料整理、初稿写作与文本核查，作者审订内容；引用资料保留原有署名与来源。",
+  "cover_label": "若谷书房 · 工作与组织",
+  "cover_image": "",
+  "cover_background": "",
+  "font_regular": "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+  "font_bold": "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+  "repository_url": "https://github.com/njxshr/ruogu-books",
+  "repository_branch": "main",
+  "quality_contract": {
+    "chapter_heading_pattern": "^第\\s+[0-9]+\\s+章",
+    "expected_chapters": 15,
+    "required_sections": [],
+    "expected_images_per_chapter": 0
+  },
+  "theme": {
+    "primary": "#17324D",
+    "secondary": "#2F6F73",
+    "accent": "#D99A3D",
+    "ink": "#1F2937",
+    "muted": "#667085",
+    "paper": "#F7F3EA"
+  }
+}

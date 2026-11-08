@@ -147,3 +147,14 @@ b8be2fcddef2fa0c0d4fd59ded28f97846090a1f9b4bda630a1dbfb8f0098d4c  books/finance-
 1fbdf4d7f544ce1f040302f8032879ae5d9471171b0dfff7ba91ed60bc1b6410  books/finance-fde-handbook/output/markdown/assets/022-19-comate-12-week-roadmap.png
 117fa900409de421bc531e73844da2ee7d5f867f790e0b84ecfe5596cb7b5a82  books/finance-fde-handbook/output/markdown/assets/023-16-ninety-day-roadmap.png
 19c7b55e11620d0f676703b0d6168056e6b6b484b4d23f31e6f32352628d3c31  books/finance-fde-handbook/output/markdown/金融行业 FDE 工程师实战手册.md
+3d9021285810ccf50348b5f15f8fb1c6d8a0d0605d4d1db620bd30dc80556634  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/README.md
+78932d3d84794e8253f9468c48927343be205e26cf0f772eadb077452b9e6851  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/materials/01-plan.md
+0ed15136f9ff4a22265baec200d40ab97a9dc9ecfe16da6af26d31e80092873b  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/materials/02-progress.md
+e54d60a0cee6bc48bb68bab4795099ff82df9bb58cd30b1f3715ad62b2e0d954  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/materials/03-meeting-notes.md
+31517f60732f9f46bcc0189448cfab3a7dfffbdf384d34b1338c2a091351e4eb  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/results/evidence-map.md
+79dc471fb68f85a5ed319ddf877b6d8c8995f372abde6b8d9c7885dbe62c60b3  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/results/pending-questions.md
+7bb39fdf4cdee6b3aa13e459759ccd722f5fa1384a517f11c05288e714f1808e  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/results/weekly-report.md
+7d7a8334a2b223cd000698eecdf7ea080152b44c165756d63882adff615b2484  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/run-notes.md
+79cf8194354d4fa681b96c47b2fdb52ae73fcecf3bb35edc59a90cc497d6c2e8  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/task.md
+e45917c48b507a770a3911cab0c2b2f96c710a37dc7a076df9a7a0b2d5e80b13  books/office-agent/output/markdown/companion/sources.md
+74969b04f27182eda79aade9351cbbe51622fc763a7461b06bffea0e59b86896  books/office-agent/output/markdown/把办公Agent用起来.md

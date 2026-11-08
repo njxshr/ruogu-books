@@ -10,7 +10,7 @@
 
 ## 阅读与下载
 
-完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有五本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配图的 Markdown 离线包；下载文件统一保存在 [GitHub Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)。
+完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有六本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配套材料的 Markdown 离线包。首批五本已有作品保存在 [v2026.11.08 Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)；新作《把办公 Agent 用起来》保存在独立的 [office-agent-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/office-agent-v1.0)。
 
 | 书名 | 内容 | 阅读与下载 |
 | --- | --- | --- |
@@ -19,10 +19,11 @@
 | [道德经新解](books/dao-de-jing/README.md) | 从古典智慧到现代生活的八十一章通识读本，含 81 幅正文插图。 | [Markdown](books/dao-de-jing/output/markdown/道德经新解.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/dao-de-jing.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/dao-de-jing.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/dao-de-jing-markdown.zip) |
 | [国央企 FDE 工程师实战手册](books/soe-fde-handbook/README.md) | 从 AI 战略到生产落地，涵盖场景、工程、治理与组织变革。 | [Markdown](books/soe-fde-handbook/output/markdown/国央企%20FDE%20工程师实战手册.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/soe-fde-handbook.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/soe-fde-handbook.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/soe-fde-handbook-markdown.zip) |
 | [金融行业 FDE 工程师实战手册](books/finance-fde-handbook/README.md) | 面向银行、证券、保险、基金与资产管理的 AI 工程实践。 | [Markdown](books/finance-fde-handbook/output/markdown/金融行业%20FDE%20工程师实战手册.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook-markdown.zip) |
+| [把办公 Agent 用起来](books/office-agent/README.md) | 从个人提效到组织智能，探索新的工作范式；李钊著，若谷书房出版。 | [Markdown](books/office-agent/output/markdown/把办公Agent用起来.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent-markdown.zip) |
 
 ## 持续创作
 
-[《把办公 Agent 用起来》](books/office-agent/BOOK_BRIEF.md)仍在筹备中，计划从个人工作改善出发，讨论组织共同能力，以及企业集团、行业与时代的变化。《智能生活》（Agent）作为后续选题保留。
+[《把办公 Agent 用起来》](books/office-agent/README.md)第一版 1.0 于 2026-11-08 制作完成，以三篇十五章和两份附录，从个人工作改善出发，讨论组织共同能力，以及企业集团、行业与时代的变化。《智能生活》（Agent）作为后续选题保留。
 
 每本书以 `manuscript/book.md` 为写作与出版主稿，修订后重新制作对应阅读版本。通过检查的成品再进入书籍目录；筹备中的作品会标明进度。更多约定见[项目需求](PROJECT_REQUIREMENTS.md)。
 
