@@ -1,0 +1,32 @@
+{
+  "title": "销售与售前分析工具全书",
+  "subtitle": "从客户洞察到赢单复盘的 60 个实战框架",
+  "author": "李钊",
+  "date": "2026-07-25",
+  "language": "zh-CN",
+  "description": "面向复杂 B2B 销售与售前工作的 60 个实战框架、案例、画布与场景组合",
+  "identifier": "",
+  "output_basename": "销售与售前分析工具全书_重制版_李钊_20260725",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "重制修订版",
+  "publisher": "",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "B2B 解决方案实战手册",
+  "cover_image": "",
+  "cover_background": "assets/illustrations/cover-background.jpg",
+  "font_regular": "",
+  "font_bold": "",
+  "quality_contract": {
+    "chapter_heading_pattern": "^工具 T\\d{2}｜",
+    "expected_chapters": 60
+  },
+  "theme": {
+    "primary": "#102A43",
+    "secondary": "#236B6B",
+    "accent": "#D88A2F",
+    "ink": "#1F2933",
+    "muted": "#64748B",
+    "paper": "#F5F1E8"
+  }
+}

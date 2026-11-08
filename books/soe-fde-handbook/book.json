@@ -1,0 +1,32 @@
+{
+  "title": "国央企 FDE 工程师实战手册",
+  "subtitle": "从 AI 战略到生产落地：场景、工程、治理与组织变革",
+  "author": "李钊",
+  "date": "2026-08-05",
+  "language": "zh-CN",
+  "description": "从 AI 战略到生产落地：场景、工程、治理与组织变革",
+  "identifier": "",
+  "output_basename": "国央企 FDE 工程师实战手册",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版·WPS Comate 增订",
+  "publisher": "",
+  "copyright": "本书仅供学习与项目实践参考；案例均为脱敏复合案例，不对应特定真实企业。",
+  "cover_label": "FDE FIELD MANUAL",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-v2.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#17324D",
+    "secondary": "#2F6F73",
+    "accent": "#D99A3D",
+    "ink": "#1F2937",
+    "muted": "#667085",
+    "paper": "#F7F3EA"
+  },
+  "quality_contract": {
+    "chapter_heading_pattern": "^第[一二三四五六七八九十百〇零两]+章",
+    "expected_chapters": 21
+  }
+}

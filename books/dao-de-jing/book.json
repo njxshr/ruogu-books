@@ -1,0 +1,28 @@
+{
+  "title": "道德经新解",
+  "subtitle": "从古典智慧到现代生活的八十一章通识读本",
+  "author": "李钊",
+  "date": "2026-08-07",
+  "language": "zh-CN",
+  "description": "从古典智慧到现代生活的八十一章通识读本",
+  "identifier": "",
+  "output_basename": "道德经新解",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "FDE工作室",
+  "copyright": "© 2026 李钊。保留所有权利。联系方式：lizhao086@126.com",
+  "cover_label": "八十一章 · 古典新读",
+  "cover_image": "",
+  "cover_background": "",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#183A37",
+    "secondary": "#6B7D6A",
+    "accent": "#B77935",
+    "ink": "#22251F",
+    "muted": "#6B6F68",
+    "paper": "#F4F0E6"
+  }
+}

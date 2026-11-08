@@ -1,0 +1,50 @@
+{
+  "title": "Neo Lab：AI 原生组织的崛起",
+  "subtitle": "从科层制的历史到人机协作的新秩序",
+  "author": "李钊",
+  "email": "lizhao086@126.com",
+  "date": "2026-09-23",
+  "language": "zh-CN",
+  "description": "从科层制的历史到人机协作的新秩序",
+  "identifier": "",
+  "output_basename": "Neo_Lab_AI原生组织",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版 · 2026年9月",
+  "publisher": "晓翊工作室",
+  "copyright": "正文含AI辅助创作与研究核验；示意案例和原创方法已作区分。引用资料权利归原权利人。",
+  "cover_label": "NEO LAB",
+  "cover_image": "assets/illustrations/cover.png",
+  "cover_background": "",
+  "font_regular": "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+  "font_bold": "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+  "quality_contract": {
+    "chapter_heading_pattern": "^第[0-9]{2}章",
+    "expected_chapters": 16,
+    "required_sections": [
+      "本章结论与行动"
+    ]
+  },
+  "theme": {
+    "primary": "#142B3B",
+    "secondary": "#146C64",
+    "accent": "#D7793F",
+    "ink": "#142B3B",
+    "muted": "#64747A",
+    "paper": "#F5F2EB"
+  },
+  "pdf_title_display": "Neo Lab：\nAI 原生组织的崛起",
+  "pdf_continuous_sections": [
+    "附录B　任务契约与验收表",
+    "附录C　试验记录与复盘问题",
+    "附录D　知识条目与权限检查"
+  ],
+  "pdf_heading_breaks": {
+    "第04章　科层制的成就、代价与生存条件": "第04章　科层制的成就、代价\n与生存条件",
+    "第05章　AI 改变了组织的哪几种成本": "第05章　AI 改变了组织的\n哪几种成本",
+    "第08章　小团队怎样成为可持续企业": "第08章　小团队怎样成为\n可持续企业",
+    "第10章　组织记忆如何成为生产资料": "第10章　组织记忆如何\n成为生产资料",
+    "第11章　没有层层审批，谁承担责任": "第11章　没有层层审批，\n谁承担责任",
+    "第12章　人的新位置：职业、激励与共同体": "第12章　人的新位置：\n职业、激励与共同体"
+  }
+}

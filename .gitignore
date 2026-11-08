@@ -1,0 +1,13 @@
+.DS_Store
+.publish-work/
+**/tmp/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+**/assets/masters/
+**/drafts/
+**/research/
+**/output/pdf/
+**/output/epub/
