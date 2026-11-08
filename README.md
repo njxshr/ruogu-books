@@ -10,6 +10,21 @@
 
 ## 阅读与下载
 
+<!-- book-cover-gallery:start -->
+<table>
+<tr>
+<td align="center"><a href="books/neo-lab/README.md"><img src="books/neo-lab/assets/preview/cover.jpg" alt="Neo Lab：AI 原生组织的崛起封面" width="170"></a><br><a href="books/neo-lab/README.md">Neo Lab：AI 原生组织的崛起</a></td>
+<td align="center"><a href="books/sales-presales-tools/README.md"><img src="books/sales-presales-tools/assets/preview/cover.jpg" alt="销售与售前分析工具全书封面" width="170"></a><br><a href="books/sales-presales-tools/README.md">销售与售前分析工具全书</a></td>
+<td align="center"><a href="books/dao-de-jing/README.md"><img src="books/dao-de-jing/assets/preview/cover.jpg" alt="道德经新解封面" width="170"></a><br><a href="books/dao-de-jing/README.md">道德经新解</a></td>
+</tr>
+<tr>
+<td align="center"><a href="books/soe-fde-handbook/README.md"><img src="books/soe-fde-handbook/assets/preview/cover.jpg" alt="国央企 FDE 工程师实战手册封面" width="170"></a><br><a href="books/soe-fde-handbook/README.md">国央企 FDE 工程师实战手册</a></td>
+<td align="center"><a href="books/finance-fde-handbook/README.md"><img src="books/finance-fde-handbook/assets/preview/cover.jpg" alt="金融行业 FDE 工程师实战手册封面" width="170"></a><br><a href="books/finance-fde-handbook/README.md">金融行业 FDE 工程师实战手册</a></td>
+<td align="center"><a href="books/office-agent/README.md"><img src="books/office-agent/assets/preview/cover.jpg" alt="把办公 Agent 用起来封面" width="170"></a><br><a href="books/office-agent/README.md">把办公 Agent 用起来</a></td>
+</tr>
+</table>
+<!-- book-cover-gallery:end -->
+
 完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有六本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配套材料的 Markdown 离线包。首批五本已有作品保存在 [v2026.11.08 Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)；新作《把办公 Agent 用起来》保存在独立的 [office-agent-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/office-agent-v1.0)。
 
 | 书名 | 内容 | 阅读与下载 |
