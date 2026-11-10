@@ -1,0 +1,47 @@
+{
+  "source_pdf_name": "solo-company.pdf",
+  "source_sha256": "ea254ae2b90373347a81f721317a805f5aac1f7bbbb9ed0ddec0f384589ace10",
+  "total_pages": 29,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "1427805cf1f4f2cb1a47da6323ea654d008840e6d8d98a583be5fcf2a1e3299d",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 16,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "0899e7f4b7abe2ee532d49f8914e14b901e15dc12cb93f25604d0e6ffe33aa0d",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 20,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "a59b8a9b502f8cbd1d44d8cac6234831748bd812dd9ac413938cdc8a37a19b83",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-03.jpg",
+      "page": 26,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "639024c98f78ce806d6398a8455e168fffc2e06601752119d4b9d49b5ff2cdaa",
+      "backend": "poppler"
+    }
+  ]
+}

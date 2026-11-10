@@ -1,0 +1,47 @@
+{
+  "source_pdf_name": "ai-native-sales.pdf",
+  "source_sha256": "48f701c07757927ed88506abeda73ac80da5b5bd1fc38dd5584abf89476b580a",
+  "total_pages": 31,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "0ccd257edf16ba1058b1814d1d2465cc59fb0a71da71f095f2a9619e2b198a1d",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 8,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "fde94392ffc49b86a7037437690e0c2c1d664ea91260ceec936c20dbd6353e4e",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 15,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "b66c65a72f6c1543b2c2994778b60841f9a9ae5db358cb7918c29daf51b4e569",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-03.jpg",
+      "page": 27,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "7d9ea9b43562a939c7851c17f8ad92958a89a26b421691431f7b87aab29c8eda",
+      "backend": "poppler"
+    }
+  ]
+}

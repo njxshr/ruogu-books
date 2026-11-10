@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "professional-judgment.pdf",
+  "source_sha256": "6046c0b9f01b069be1c0aa2066eb399408e18e4e894ff9c1296332f8088b9648",
+  "total_pages": 28,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "3605e938c2bb38d08c0b620c33c7a1490fea035bd0f59d09605870dd9c94b577",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 13,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "d12bd98b0b41a713703a460cb78f7f06641ce3be676fec9cb8fe46eea02f6d5b",
+      "backend": "poppler"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 25,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "b7db2ceccf844edd50e3af3d5b4f089349e1a532b812f8417cda90a00b84f158",
+      "backend": "poppler"
+    }
+  ]
+}

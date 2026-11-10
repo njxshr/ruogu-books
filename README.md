@@ -22,11 +22,18 @@
 <td align="center"><a href="books/finance-fde-handbook/README.md"><img src="books/finance-fde-handbook/assets/preview/cover.jpg" alt="金融行业 FDE 工程师实战手册封面" width="170"></a><br><a href="books/finance-fde-handbook/README.md">金融行业 FDE 工程师实战手册</a></td>
 <td align="center"><a href="books/office-agent/README.md"><img src="books/office-agent/assets/preview/cover.jpg" alt="把办公 Agent 用起来封面" width="170"></a><br><a href="books/office-agent/README.md">把办公 Agent 用起来</a></td>
 </tr>
-<tr><td align="center"><a href="books/ai-portraits/README.md"><img src="books/ai-portraits/assets/preview/cover.jpg" alt="AI时代人物志封面" width="170"></a><br><a href="books/ai-portraits/README.md">AI时代人物志</a></td></tr>
+<tr>
+<td align="center"><a href="books/ai-portraits/README.md"><img src="books/ai-portraits/assets/preview/cover.jpg" alt="AI时代人物志封面" width="170"></a><br><a href="books/ai-portraits/README.md">AI时代人物志</a></td>
+<td align="center"><a href="books/professional-judgment/README.md"><img src="books/professional-judgment/assets/preview/cover.jpg" alt="答案之后：AI 时代的专业判断封面" width="170"></a><br><a href="books/professional-judgment/README.md">答案之后：AI 时代的专业判断</a></td>
+<td align="center"><a href="books/solo-company/README.md"><img src="books/solo-company/assets/preview/cover.jpg" alt="一人公司的真实边界封面" width="170"></a><br><a href="books/solo-company/README.md">一人公司的真实边界</a></td>
+</tr>
+<tr>
+<td align="center"><a href="books/ai-native-sales/README.md"><img src="books/ai-native-sales/assets/preview/cover.jpg" alt="AI 原生销售：从工具提效到决策共创封面" width="170"></a><br><a href="books/ai-native-sales/README.md">AI 原生销售：从工具提效到决策共创</a></td>
+</tr>
 </table>
 <!-- book-cover-gallery:end -->
 
-完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有十本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配套材料的 Markdown 离线包。首批五本已有作品保存在 [v2026.11.08 Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)；新作《把办公 Agent 用起来》保存在独立的 [office-agent-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/office-agent-v1.0)。
+完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有十本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配套材料的 Markdown 离线包。首批五本已有作品保存在 [v2026.11.08 Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)；新作《把办公 Agent 用起来》保存在独立的 [office-agent-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/office-agent-v1.0)。《AI时代人物志》见 [ai-portraits-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/ai-portraits-v1.0)；《答案之后》《一人公司的真实边界》《AI 原生销售》见 [A1—A3 第一版 Release](https://github.com/njxshr/ruogu-books/releases/tag/a1-a3-v1.0)。
 
 | 书名 | 内容 | 阅读与下载 |
 | --- | --- | --- |
@@ -37,9 +44,9 @@
 | [金融行业 FDE 工程师实战手册](books/finance-fde-handbook/README.md) | 面向银行、证券、保险、基金与资产管理的 AI 工程实践。 | [Markdown](books/finance-fde-handbook/output/markdown/金融行业%20FDE%20工程师实战手册.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook-markdown.zip) |
 | [把办公 Agent 用起来](books/office-agent/README.md) | 从个人提效到组织智能，探索新的工作范式；李钊著，若谷书房出版。 | [Markdown](books/office-agent/output/markdown/把办公Agent用起来.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent-markdown.zip) |
 | [AI时代人物志](books/ai-portraits/README.md) | 科学家的成长、技术的来路与大模型的诞生。 | [Markdown](books/ai-portraits/output/markdown/AI时代人物志.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/ai-portraits-v1.0/ai-portraits.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/ai-portraits-v1.0/ai-portraits.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/ai-portraits-v1.0/ai-portraits-markdown.zip) |
-| [答案之后：AI 时代的专业判断](books/professional-judgment/README.md) | 若谷书房第一版 1.0。 | [Markdown](books/professional-judgment/output/markdown/professional-judgment.md) · [PDF（28页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment-markdown.zip) |
-| [一人公司的真实边界](books/solo-company/README.md) | 若谷书房第一版 1.0。 | [Markdown](books/solo-company/output/markdown/solo-company.md) · [PDF（29页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company-markdown.zip) |
-| [AI 原生销售：从工具提效到决策共创](books/ai-native-sales/README.md) | 若谷书房第一版 1.0。 | [Markdown](books/ai-native-sales/output/markdown/ai-native-sales.md) · [PDF（31页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales-markdown.zip) |
+| [答案之后：AI 时代的专业判断](books/professional-judgment/README.md) | 从问题定义、证据核验到复核与责任的专业判断方法。 | [Markdown](books/professional-judgment/output/markdown/professional-judgment.md) · [PDF（28页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment-markdown.zip) |
+| [一人公司的真实边界](books/solo-company/README.md) | 用需求、报价、交付和完整账目检验个人经营的边界。 | [Markdown](books/solo-company/output/markdown/solo-company.md) · [PDF（29页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company-markdown.zip) |
+| [AI 原生销售：从工具提效到决策共创](books/ai-native-sales/README.md) | 从客户研究到验证、谈判与复盘的八阶段协作方法。 | [Markdown](books/ai-native-sales/output/markdown/ai-native-sales.md) · [PDF（31页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales-markdown.zip) |
 
 ## 持续创作
 
