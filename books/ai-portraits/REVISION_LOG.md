@@ -19,3 +19,8 @@
 ## 2026-11-10　第一版1.0成书
 
 用户要求制作书籍，据当前内容生成三格式成品。缩短副标题并压缩附录导航表措辞，修复首版65页封面孤行与附录尾行分页，最终PDF63页。完成最终渲染与EPUB浏览器查看，生成本地离线包和校验和。详见QA_REPORT.md。书房本地目录收录，尚未上传GitHub。
+
+
+## GitHub发布核验（2026-11-10）
+
+已发布[ai-portraits-v1.0](https://github.com/njxshr/ruogu-books/releases/tag/ai-portraits-v1.0)，标签指向出版提交fac798bd195f83f20abbb37d68b1aa543efab687。GitHub Release API确认四份附件均已上传，文件大小与SHA-256逐一与本地一致。本轮只发布本书及书房目录资料，其他筹备书稿不纳入提交。

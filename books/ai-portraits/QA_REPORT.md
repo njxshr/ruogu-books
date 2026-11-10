@@ -14,8 +14,13 @@
 
 ## 范围
 
-版式与结构检查不等于独立传记事实复核。资料访问范围见SOURCES.md；未完成研究实验复现、当事人采访或独立事实核查员复审。本轮没有上传GitHub、建立Release或声称已远程发布。
+版式与结构检查不等于独立传记事实复核。资料访问范围见SOURCES.md；未完成研究实验复现、当事人采访或独立事实核查员复审。本地制作阶段未发布；后续GitHub发布核验见下节。
 
 ## 检查原始记录
 
 本地工作区tmp/validation-report.json、tmp/pdf-render/contact-sheets/、tmp/epub-browser/results.json与截图保留了本轮产物。
+
+
+## GitHub发布核验（2026-11-10）
+
+已发布[ai-portraits-v1.0](https://github.com/njxshr/ruogu-books/releases/tag/ai-portraits-v1.0)，标签指向出版提交fac798bd195f83f20abbb37d68b1aa543efab687。GitHub Release API确认四份附件均已上传，文件大小与SHA-256逐一与本地一致。本轮只发布本书及书房目录资料，其他筹备书稿不纳入提交。

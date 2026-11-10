@@ -53,6 +53,12 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 
 2026-11-10发布第一版1.0，李钊著、若谷书房出版。22章、3份附录、84项来源，PDF63页。使用[独立Release](https://github.com/njxshr/ruogu-books/releases/tag/ai-portraits-v1.0)提供PDF、EPUB、Markdown离线包和附件校验和。完成最终PDF全部页渲染查看、EPUB结构和浏览器阅读抽查；具体范围与限制见[QA_REPORT](books/ai-portraits/QA_REPORT.md)。独立传记事实复审及实验复现未开展。其他作品与既有上架记录保留。
 
+
+
+### 发布核验
+
+已发布[ai-portraits-v1.0](https://github.com/njxshr/ruogu-books/releases/tag/ai-portraits-v1.0)，标签指向出版提交fac798bd195f83f20abbb37d68b1aa543efab687。GitHub Release API确认四份附件均已上传，文件大小与SHA-256逐一与本地一致。本轮只发布本书及书房目录资料，其他筹备书稿不纳入提交。
+
 ## 后续修订
 
 1. 在相应书籍的主稿中修改，补充来源与修订记录。
