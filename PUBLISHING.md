@@ -74,4 +74,4 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 
 ## A1—A3 远程发布
 
-2026-11-10，按用户明确要求将三本第一版推送至 GitHub，下载附件使用 [a1-a3-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/a1-a3-v1.0)。本节的实际发布与附件核验结果在上传结束后补记；已有作品和发布记录保留。
+2026-11-10，按用户明确要求将三本第一版推送至 GitHub，下载附件使用 [a1-a3-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/a1-a3-v1.0)。Release 已正式发布（非草稿），标签指向出版提交 `8603ee7dafe53e8639712dc16e315b1684cd8e9c`。GitHub Release API 返回的十份附件（九份阅读文件及一份 SHA256SUMS.txt）的大小和 SHA-256 与本地逐项一致。已有作品和发布记录保留。
