@@ -26,7 +26,7 @@
 </table>
 <!-- book-cover-gallery:end -->
 
-完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有七本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配套材料的 Markdown 离线包。首批五本已有作品保存在 [v2026.11.08 Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)；新作《把办公 Agent 用起来》保存在独立的 [office-agent-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/office-agent-v1.0)。
+完整的版本信息与阅读入口见 **[书籍目录](目录.md)**。现有十本成品书均提供 Markdown 在线阅读、PDF、EPUB 和包含配套材料的 Markdown 离线包。首批五本已有作品保存在 [v2026.11.08 Release](https://github.com/njxshr/ruogu-books/releases/tag/v2026.11.08)；新作《把办公 Agent 用起来》保存在独立的 [office-agent-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/office-agent-v1.0)。
 
 | 书名 | 内容 | 阅读与下载 |
 | --- | --- | --- |
@@ -37,10 +37,15 @@
 | [金融行业 FDE 工程师实战手册](books/finance-fde-handbook/README.md) | 面向银行、证券、保险、基金与资产管理的 AI 工程实践。 | [Markdown](books/finance-fde-handbook/output/markdown/金融行业%20FDE%20工程师实战手册.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/v2026.11.08/finance-fde-handbook-markdown.zip) |
 | [把办公 Agent 用起来](books/office-agent/README.md) | 从个人提效到组织智能，探索新的工作范式；李钊著，若谷书房出版。 | [Markdown](books/office-agent/output/markdown/把办公Agent用起来.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/office-agent-v1.0/office-agent-markdown.zip) |
 | [AI时代人物志](books/ai-portraits/README.md) | 科学家的成长、技术的来路与大模型的诞生。 | [Markdown](books/ai-portraits/output/markdown/AI时代人物志.md) · [PDF](https://github.com/njxshr/ruogu-books/releases/download/ai-portraits-v1.0/ai-portraits.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/ai-portraits-v1.0/ai-portraits.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/ai-portraits-v1.0/ai-portraits-markdown.zip) |
+| [答案之后：AI 时代的专业判断](books/professional-judgment/README.md) | 若谷书房第一版 1.0。 | [Markdown](books/professional-judgment/output/markdown/professional-judgment.md) · [PDF（28页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment-markdown.zip) |
+| [一人公司的真实边界](books/solo-company/README.md) | 若谷书房第一版 1.0。 | [Markdown](books/solo-company/output/markdown/solo-company.md) · [PDF（29页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company-markdown.zip) |
+| [AI 原生销售：从工具提效到决策共创](books/ai-native-sales/README.md) | 若谷书房第一版 1.0。 | [Markdown](books/ai-native-sales/output/markdown/ai-native-sales.md) · [PDF（31页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales-markdown.zip) |
 
 ## 持续创作
 
 [《把办公 Agent 用起来》](books/office-agent/README.md)第一版 1.0 于 2026-11-08 制作完成，以三篇十五章和两份附录，从个人工作改善出发，讨论组织共同能力，以及企业集团、行业与时代的变化。《智能生活》（Agent）作为后续选题保留。
+
+整体安排见[写作计划](写作计划.md)：保留《智能生活》与《AI时代人物志》待审初稿，新增 A1—A6、B1—B6 共 12 个选题。A1《答案之后》、A2《一人公司的真实边界》、A3《AI 原生销售》已完成第一版 1.0 的本地成书与检查；其余按优先级与材料成熟度推进。
 
 每本书以 `manuscript/book.md` 为写作与出版主稿，修订后重新制作对应阅读版本。通过检查的成品再进入书籍目录；筹备中的作品会标明进度。更多约定见[项目需求](PROJECT_REQUIREMENTS.md)。
 

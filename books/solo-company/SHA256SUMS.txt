@@ -1,0 +1,4 @@
+6cdc3b7d591b8dd73470f3dcaea872d86fb191b450a7e7d311174b165bfe3d87  output/markdown/solo-company.md
+ea254ae2b90373347a81f721317a805f5aac1f7bbbb9ed0ddec0f384589ace10  output/pdf/solo-company.pdf
+ec536c94d2eecdb5886e71612b4293e4f1bd5fd5eb566c716854ce055c37ba58  output/epub/solo-company.epub
+ef984a636fed441738c1535859fc15d0c8cee83854710991438d604daa3645f9  release/solo-company-markdown.zip

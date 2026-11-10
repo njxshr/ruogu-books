@@ -59,6 +59,10 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 
 已发布[ai-portraits-v1.0](https://github.com/njxshr/ruogu-books/releases/tag/ai-portraits-v1.0)，标签指向出版提交fac798bd195f83f20abbb37d68b1aa543efab687。GitHub Release API确认四份附件均已上传，文件大小与SHA-256逐一与本地一致。本轮只发布本书及书房目录资料，其他筹备书稿不纳入提交。
 
+## A1—A3：第一版 1.0 本地成书
+
+2026-11-10 按用户要求完成《答案之后》《一人公司的真实边界》《AI 原生销售》的 Markdown、PDF、EPUB 与 Markdown 离线包。PDF 分别为 28、29、31 页，均完成最终全页缩略图检查，EPUB 完成结构、目录跳转与浏览器前中后、封面结尾及窄屏抽查。各书 QA_REPORT.md 和 SHA256SUMS.txt 保存实际结果与校验和。仅登记本地成品，尚未推送或创建 Release，不改变其他作品的发布记录。
+
 ## 后续修订
 
 1. 在相应书籍的主稿中修改，补充来源与修订记录。
@@ -67,3 +71,7 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 4. 已有版本信息与更新说明保持一致，再推送到 GitHub。
 
 后续选题《智能生活》（Agent）尚未开始创作。独立 HTML 教程未列入上述三格式成品书。
+
+## A1—A3 远程发布
+
+2026-11-10，按用户明确要求将三本第一版推送至 GitHub，下载附件使用 [a1-a3-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/a1-a3-v1.0)。本节的实际发布与附件核验结果在上传结束后补记；已有作品和发布记录保留。

@@ -1,0 +1,4 @@
+166c0603bdcdc689443cb0dfeeae475c848e2e55fe7180175279c5c2bfe18feb  output/markdown/ai-native-sales.md
+48f701c07757927ed88506abeda73ac80da5b5bd1fc38dd5584abf89476b580a  output/pdf/ai-native-sales.pdf
+99aa8b632d232c750b76f598334d4f5a1365301bfe3539535b197de95ea349b6  output/epub/ai-native-sales.epub
+688244408b1198c3b74ed1e84608de36db23eaa2dcbdac4e3415fbe4d7eafd35  release/ai-native-sales-markdown.zip
