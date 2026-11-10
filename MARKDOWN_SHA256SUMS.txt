@@ -158,3 +158,4 @@ e54d60a0cee6bc48bb68bab4795099ff82df9bb58cd30b1f3715ad62b2e0d954  books/office-a
 79cf8194354d4fa681b96c47b2fdb52ae73fcecf3bb35edc59a90cc497d6c2e8  books/office-agent/output/markdown/companion/examples/ch03-weekly-report/task.md
 e45917c48b507a770a3911cab0c2b2f96c710a37dc7a076df9a7a0b2d5e80b13  books/office-agent/output/markdown/companion/sources.md
 74969b04f27182eda79aade9351cbbe51622fc763a7461b06bffea0e59b86896  books/office-agent/output/markdown/把办公Agent用起来.md
+ced5e10cb53cde62846e5580ef7fb33cbeedf04579f2bcf0a03e0c5fb746d830  books/ai-portraits/output/markdown/AI时代人物志.md

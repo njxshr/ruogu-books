@@ -1,0 +1,34 @@
+{
+  "title": "AI时代人物志",
+  "subtitle": "科学家的成长、技术的来路与大模型的诞生",
+  "author": "李钊",
+  "date": "2026-11-10",
+  "language": "zh-CN",
+  "description": "22章人物与技术通识读本：从求学经历、职业转折与共同研究，理解人工智能时代的来路。",
+  "identifier": "",
+  "output_basename": "AI时代人物志",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版 · 1.0",
+  "publisher": "若谷书房",
+  "publisher_slogan": "内容来自全人类的智慧，感谢AI的高效率整合",
+  "cover_slogan_embedded": false,
+  "copyright": "© 2026 李钊／若谷书房。第三方资料的权利归原权利人所有。",
+  "cover_label": "人物 · 技术 · 时代",
+  "cover_image": "",
+  "cover_background": "",
+  "font_regular": "",
+  "font_bold": "",
+  "quality_contract": {
+    "chapter_heading_pattern": "^第[一二三四五六七八九十百]+章",
+    "expected_chapters": 22
+  },
+  "theme": {
+    "primary": "#17324D",
+    "secondary": "#2F6F73",
+    "accent": "#D99A3D",
+    "ink": "#1F2937",
+    "muted": "#667085",
+    "paper": "#F7F3EA"
+  }
+}

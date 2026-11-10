@@ -1,0 +1,4 @@
+ced5e10cb53cde62846e5580ef7fb33cbeedf04579f2bcf0a03e0c5fb746d830  output/markdown/AI时代人物志.md
+d785ace0fedcea39f99a79a7b9a2f2c66e494f063c6d1b90963a54730cd390b3  output/pdf/AI时代人物志.pdf
+11001206a7584a7f63cb26678343bb06823c6c0eacd2bfb7a4b0d5111396e4a3  output/epub/AI时代人物志.epub
+91e952ffb6329f5cd4e852eecb2e1f956f2e6de8806d118c7060f472b4d3f3df  release/ai-portraits-markdown.zip
