@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "机器陪伴_李钊_20261111.pdf",
+  "source_sha256": "9f19f7fbfec7269f7f50dc17e38a76bcdf1a0b78ad234ae481fbc08cf79d73a8",
+  "total_pages": 18,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "58aa97d78657b84a6f3eaa0fd0a363fdbcde74ec2ceb22d1e3849f3c0954c9dc",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 7,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "f704eac4a46163cad2cf4aa383e843b9762c99183773de4c7c24711dea6ed314",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 10,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "5915a8d1a7d6060809121faf8e5e0e90b60ba5c85e92ab1818a72bbb682a2ed1",
+      "backend": "pdfium"
+    }
+  ]
+}

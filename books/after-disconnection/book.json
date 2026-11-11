@@ -1,0 +1,28 @@
+{
+  "title": "断网之后",
+  "subtitle": "数字生活的韧性",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "建立覆盖数据、账号、设备、关键服务和家庭协作的可恢复能力。",
+  "identifier": "",
+  "output_basename": "断网之后_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#213547",
+    "secondary": "#3E6C78",
+    "accent": "#E09F3E",
+    "ink": "#1F313B",
+    "muted": "#657A82",
+    "paper": "#F4F0E4"
+  }
+}

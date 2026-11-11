@@ -1,0 +1,28 @@
+{
+  "title": "一人编辑部",
+  "subtitle": "AI 时代的非虚构写作",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "建立从选题、来源、采访、结构、起草、核查到出版的个人编辑系统。",
+  "identifier": "",
+  "output_basename": "一人编辑部_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#3C2F2F",
+    "secondary": "#7A5C58",
+    "accent": "#C98B4B",
+    "ink": "#302725",
+    "muted": "#826A60",
+    "paper": "#F7F1E7"
+  }
+}

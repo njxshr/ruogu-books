@@ -1,0 +1,28 @@
+{
+  "title": "克制",
+  "subtitle": "从《道德经》到现代领导力",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "以可靠文本阅读讨论过度干预、权力、自主、冲突、扩张与责任。",
+  "identifier": "",
+  "output_basename": "克制_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#263D36",
+    "secondary": "#657C6A",
+    "accent": "#B58B52",
+    "ink": "#28372F",
+    "muted": "#748176",
+    "paper": "#F4F0E4"
+  }
+}

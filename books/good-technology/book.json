@@ -1,0 +1,28 @@
+{
+  "title": "好技术的尺度",
+  "subtitle": "可理解、可退出、可纠错",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "把抽象伦理转化为可评审、可测试、可验收的产品与服务标准。",
+  "identifier": "",
+  "output_basename": "好技术的尺度_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#243746",
+    "secondary": "#426B73",
+    "accent": "#D56D4D",
+    "ink": "#24333B",
+    "muted": "#6C7D83",
+    "paper": "#F4F1E9"
+  }
+}

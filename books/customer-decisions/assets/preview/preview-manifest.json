@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "客户如何决定_李钊_20261111.pdf",
+  "source_sha256": "3f91aed9dd2f21588afc1ed549d2f37571281d22242ad02838f7ab7f8f9f9266",
+  "total_pages": 17,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "962caf0a6d5deb7901a0e8775fb464c348e342e801069bfd6e54de63596d80e5",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 7,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "627b4cfe7b4d72ab06c2dd29c65c9980e89618fd79b469a5913dc8f0dd88d5eb",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 10,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "33062b677b709340611a7be6be741bc9256d81195bc16560d963c1a6ac449ece",
+      "backend": "pdfium"
+    }
+  ]
+}

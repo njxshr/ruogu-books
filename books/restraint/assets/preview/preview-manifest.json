@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "克制_李钊_20261111.pdf",
+  "source_sha256": "066962493eb8c0cefb89b7024aa32ec07b964ed18ca1269841180d9bc2cd4253",
+  "total_pages": 17,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "a528d68264ac562bd66fa06d6ea3e1b5cff4c849ab4223f0c99b3c53c8126cc3",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 7,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "af11d9e75e6ffb5c77d3a4101f11c735473b53059235eed66f851934455c7e4a",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 10,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "3b38f9a72afdfb7a6602b6961af865b5485a92d23a401f09881d52a5cdccddc9",
+      "backend": "pdfium"
+    }
+  ]
+}

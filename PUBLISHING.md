@@ -75,3 +75,19 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 ## A1—A3 远程发布
 
 2026-11-10，按用户明确要求将三本第一版推送至 GitHub，下载附件使用 [a1-a3-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/a1-a3-v1.0)。Release 已正式发布（非草稿），标签指向出版提交 `8603ee7dafe53e8639712dc16e315b1684cd8e9c`。GitHub Release API 返回的十份附件（九份阅读文件及一份 SHA256SUMS.txt）的大小和 SHA-256 与本地逐项一致。已有作品和发布记录保留。
+
+## 2026-11-11 新书九种
+
+发布标签：`new-books-20261111-v1.0`。保留原书署名、晓翊工作室出版信息和 2026-11-11 日期。
+
+- 《被量化的自己》：PDF 18 页；Markdown、PDF、EPUB。
+- 《从想法到作品》：PDF 19 页；Markdown、PDF、EPUB。
+- 《一人编辑部》：PDF 18 页；Markdown、PDF、EPUB。
+- 《组织记忆》：PDF 17 页；Markdown、PDF、EPUB。
+- 《客户如何决定》：PDF 17 页；Markdown、PDF、EPUB。
+- 《断网之后》：PDF 17 页；Markdown、PDF、EPUB。
+- 《机器陪伴》：PDF 18 页；Markdown、PDF、EPUB。
+- 《好技术的尺度》：PDF 17 页；Markdown、PDF、EPUB。
+- 《克制》：PDF 17 页；Markdown、PDF、EPUB。
+
+本次核对格式存在、PDF 页数与元数据、Markdown 配图引用、EPUB ZIP 完整性，打包并计算 SHA-256；查看九本实际封面与正文第 7 页与第 10 或 11 页预览。原有检查记录不等同于本次重新核查全部来源或逐页审读。

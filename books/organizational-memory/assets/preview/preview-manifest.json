@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "组织记忆_李钊_20261111.pdf",
+  "source_sha256": "2d1135277fe51f833789b11d1ef08e4614304f574dba322c8722655641f098bb",
+  "total_pages": 17,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "0c2d4a57152f448121bb18df90274346e7f00fce93e6e0f297138bc2d113a355",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 7,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "9325f1034fb824041c922272cfc41be8119418c44173ee2b4cb67c3287833c25",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 10,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "e3ef9cf93f56fcf4fda266f63c1a7d22f09b62777e80bcbb57f7d67870ef8a5b",
+      "backend": "pdfium"
+    }
+  ]
+}

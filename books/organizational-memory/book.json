@@ -1,0 +1,28 @@
+{
+  "title": "组织记忆",
+  "subtitle": "企业如何知道、忘记与纠错",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "把分散资料和经验转化为可找到、可使用、可更新、可追责的组织知识。",
+  "identifier": "",
+  "output_basename": "组织记忆_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#173F35",
+    "secondary": "#3C6E5E",
+    "accent": "#B88746",
+    "ink": "#1D332D",
+    "muted": "#647C73",
+    "paper": "#F3F0E6"
+  }
+}

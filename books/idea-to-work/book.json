@@ -1,0 +1,28 @@
+{
+  "title": "从想法到作品",
+  "subtitle": "普通人的 Vibe Coding",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "让读者能完成从需求、原型、审阅、测试到发布维护的完整低风险项目。",
+  "identifier": "",
+  "output_basename": "从想法到作品_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#102A43",
+    "secondary": "#146C64",
+    "accent": "#F08C46",
+    "ink": "#142B3B",
+    "muted": "#627D98",
+    "paper": "#F4F0E8"
+  }
+}

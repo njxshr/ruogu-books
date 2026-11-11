@@ -1,0 +1,28 @@
+{
+  "title": "客户如何决定",
+  "subtitle": "复杂采购的内部旅程",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "从买方内部理解决策触发、共识、证据、风险、不决定与上线复盘。",
+  "identifier": "",
+  "output_basename": "客户如何决定_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#2B3A67",
+    "secondary": "#5B6C9D",
+    "accent": "#D17A56",
+    "ink": "#27314A",
+    "muted": "#6E7690",
+    "paper": "#F5F1EA"
+  }
+}

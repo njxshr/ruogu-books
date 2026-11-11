@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "被量化的自己_李钊_20261111.pdf",
+  "source_sha256": "b91ca29a26b41795a91a043a8dc1afd91241830d80eab5d83ed082f0322e936c",
+  "total_pages": 18,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "0651a848d2c4e942e4778bf65e664816f9815eedb1d7f2e9c777896f04e5a1c9",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 7,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "8c1f81b266488ee34f55dc2cc5c793fef60544a9f6eafc256e32ba6674008119",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 11,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "cb4ccf2d211faefd4daf91d5beaaf6fd123fbead9e3456c199a265651acc036c",
+      "backend": "pdfium"
+    }
+  ]
+}

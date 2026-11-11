@@ -1,0 +1,28 @@
+{
+  "title": "机器陪伴",
+  "subtitle": "亲密关系的新中介",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "理解机器陪伴的吸引力、真实帮助、依赖风险与家庭及产品的保护边界。",
+  "identifier": "",
+  "output_basename": "机器陪伴_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#4B3B5A",
+    "secondary": "#7B6D8D",
+    "accent": "#D89B75",
+    "ink": "#382F42",
+    "muted": "#81758B",
+    "paper": "#F6F0E9"
+  }
+}

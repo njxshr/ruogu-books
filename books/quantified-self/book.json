@@ -1,0 +1,28 @@
+{
+  "title": "被量化的自己",
+  "subtitle": "当生活变成一份数据报告",
+  "author": "李钊",
+  "date": "2026-11-11",
+  "language": "zh-CN",
+  "description": "帮助读者区分测量、解释与行动，建立个人数据审计和恢复主观判断的方法。",
+  "identifier": "",
+  "output_basename": "被量化的自己_李钊_20261111",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版",
+  "publisher": "晓翊工作室",
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "原创电子书",
+  "cover_image": "",
+  "cover_background": "assets/cover-background-clean.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#243B53",
+    "secondary": "#486581",
+    "accent": "#D9A441",
+    "ink": "#172B3A",
+    "muted": "#627D98",
+    "paper": "#F5F1E8"
+  }
+}

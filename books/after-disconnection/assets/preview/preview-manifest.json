@@ -1,0 +1,37 @@
+{
+  "source_pdf_name": "断网之后_李钊_20261111.pdf",
+  "source_sha256": "06cadcfd1187ef964ce1a7af49c896dd9c56712bb561eb2a2101af55bcf5f46a",
+  "total_pages": 17,
+  "assets": [
+    {
+      "asset": "cover.jpg",
+      "page": 1,
+      "dimensions": [
+        1100,
+        1561
+      ],
+      "sha256": "866c751ee9ca3e8222a3521bf2116b14ed9d4f7b8e11e1792bc49ca9f729e4a8",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-01.jpg",
+      "page": 7,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "ce6816d89a60206f1242cd27899874f1c14322b25a85291edcab9cdc961fe674",
+      "backend": "pdfium"
+    },
+    {
+      "asset": "sample-02.jpg",
+      "page": 10,
+      "dimensions": [
+        1200,
+        1703
+      ],
+      "sha256": "117e201597efe2fbc28dc0b16f29fca299a6d8a0d1ee690e55de7382b4378d8b",
+      "backend": "pdfium"
+    }
+  ]
+}
