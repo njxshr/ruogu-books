@@ -13,37 +13,37 @@
 <!-- book-cover-gallery:start -->
 <table>
 <tr>
-<td align="center"><a href="books/neo-lab/README.md"><img src="books/neo-lab/assets/preview/cover.jpg" alt="Neo Lab：AI 原生组织的崛起封面" width="170"></a><br><a href="books/neo-lab/README.md">Neo Lab：AI 原生组织的崛起</a></td>
-<td align="center"><a href="books/sales-presales-tools/README.md"><img src="books/sales-presales-tools/assets/preview/cover.jpg" alt="销售与售前分析工具全书封面" width="170"></a><br><a href="books/sales-presales-tools/README.md">销售与售前分析工具全书</a></td>
-<td align="center"><a href="books/dao-de-jing/README.md"><img src="books/dao-de-jing/assets/preview/cover.jpg" alt="道德经新解封面" width="170"></a><br><a href="books/dao-de-jing/README.md">道德经新解</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/neo-lab/README.md"><img src="books/neo-lab/assets/preview/cover.jpg" alt="Neo Lab：AI 原生组织的崛起封面" width="170"></a><br><a href="books/neo-lab/README.md">Neo Lab：AI 原生组织的崛起</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/sales-presales-tools/README.md"><img src="books/sales-presales-tools/assets/preview/cover.jpg" alt="销售与售前分析工具全书封面" width="170"></a><br><a href="books/sales-presales-tools/README.md">销售与售前分析工具全书</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/dao-de-jing/README.md"><img src="books/dao-de-jing/assets/preview/cover.jpg" alt="道德经新解封面" width="170"></a><br><a href="books/dao-de-jing/README.md">道德经新解</a></td>
 </tr>
 <tr>
-<td align="center"><a href="books/soe-fde-handbook/README.md"><img src="books/soe-fde-handbook/assets/preview/cover.jpg" alt="国央企 FDE 工程师实战手册封面" width="170"></a><br><a href="books/soe-fde-handbook/README.md">国央企 FDE 工程师实战手册</a></td>
-<td align="center"><a href="books/finance-fde-handbook/README.md"><img src="books/finance-fde-handbook/assets/preview/cover.jpg" alt="金融行业 FDE 工程师实战手册封面" width="170"></a><br><a href="books/finance-fde-handbook/README.md">金融行业 FDE 工程师实战手册</a></td>
-<td align="center"><a href="books/office-agent/README.md"><img src="books/office-agent/assets/preview/cover.jpg" alt="把办公 Agent 用起来封面" width="170"></a><br><a href="books/office-agent/README.md">把办公 Agent 用起来</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/soe-fde-handbook/README.md"><img src="books/soe-fde-handbook/assets/preview/cover.jpg" alt="国央企 FDE 工程师实战手册封面" width="170"></a><br><a href="books/soe-fde-handbook/README.md">国央企 FDE 工程师实战手册</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/finance-fde-handbook/README.md"><img src="books/finance-fde-handbook/assets/preview/cover.jpg" alt="金融行业 FDE 工程师实战手册封面" width="170"></a><br><a href="books/finance-fde-handbook/README.md">金融行业 FDE 工程师实战手册</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/office-agent/README.md"><img src="books/office-agent/assets/preview/cover.jpg" alt="把办公 Agent 用起来封面" width="170"></a><br><a href="books/office-agent/README.md">把办公 Agent 用起来</a></td>
 </tr>
 <tr>
-<td align="center"><a href="books/ai-portraits/README.md"><img src="books/ai-portraits/assets/preview/cover.jpg" alt="AI时代人物志封面" width="170"></a><br><a href="books/ai-portraits/README.md">AI时代人物志</a></td>
-<td align="center"><a href="books/professional-judgment/README.md"><img src="books/professional-judgment/assets/preview/cover.jpg" alt="答案之后：AI 时代的专业判断封面" width="170"></a><br><a href="books/professional-judgment/README.md">答案之后：AI 时代的专业判断</a></td>
-<td align="center"><a href="books/solo-company/README.md"><img src="books/solo-company/assets/preview/cover.jpg" alt="一人公司的真实边界封面" width="170"></a><br><a href="books/solo-company/README.md">一人公司的真实边界</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/ai-portraits/README.md"><img src="books/ai-portraits/assets/preview/cover.jpg" alt="AI时代人物志封面" width="170"></a><br><a href="books/ai-portraits/README.md">AI时代人物志</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/professional-judgment/README.md"><img src="books/professional-judgment/assets/preview/cover.jpg" alt="答案之后：AI 时代的专业判断封面" width="170"></a><br><a href="books/professional-judgment/README.md">答案之后：AI 时代的专业判断</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/solo-company/README.md"><img src="books/solo-company/assets/preview/cover.jpg" alt="一人公司的真实边界封面" width="170"></a><br><a href="books/solo-company/README.md">一人公司的真实边界</a></td>
 </tr>
 <tr>
-<td align="center"><a href="books/ai-native-sales/README.md"><img src="books/ai-native-sales/assets/preview/cover.jpg" alt="AI 原生销售：从工具提效到决策共创封面" width="170"></a><br><a href="books/ai-native-sales/README.md">AI 原生销售：从工具提效到决策共创</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/ai-native-sales/README.md"><img src="books/ai-native-sales/assets/preview/cover.jpg" alt="AI 原生销售：从工具提效到决策共创封面" width="170"></a><br><a href="books/ai-native-sales/README.md">AI 原生销售：从工具提效到决策共创</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/quantified-self/README.md"><img src="books/quantified-self/assets/preview/cover.jpg" alt="被量化的自己封面" width="170"></a><br><a href="books/quantified-self/README.md">被量化的自己</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/idea-to-work/README.md"><img src="books/idea-to-work/assets/preview/cover.jpg" alt="从想法到作品封面" width="170"></a><br><a href="books/idea-to-work/README.md">从想法到作品</a></td>
 </tr>
 <tr>
-<td align="center"><a href="books/quantified-self/README.md"><img src="books/quantified-self/assets/preview/cover.jpg" width="170" alt="被量化的自己封面"></a><br><a href="books/quantified-self/README.md">被量化的自己</a></td>
-<td align="center"><a href="books/idea-to-work/README.md"><img src="books/idea-to-work/assets/preview/cover.jpg" width="170" alt="从想法到作品封面"></a><br><a href="books/idea-to-work/README.md">从想法到作品</a></td>
-<td align="center"><a href="books/solo-editorial/README.md"><img src="books/solo-editorial/assets/preview/cover.jpg" width="170" alt="一人编辑部封面"></a><br><a href="books/solo-editorial/README.md">一人编辑部</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/solo-editorial/README.md"><img src="books/solo-editorial/assets/preview/cover.jpg" alt="一人编辑部封面" width="170"></a><br><a href="books/solo-editorial/README.md">一人编辑部</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/organizational-memory/README.md"><img src="books/organizational-memory/assets/preview/cover.jpg" alt="组织记忆封面" width="170"></a><br><a href="books/organizational-memory/README.md">组织记忆</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/customer-decisions/README.md"><img src="books/customer-decisions/assets/preview/cover.jpg" alt="客户如何决定封面" width="170"></a><br><a href="books/customer-decisions/README.md">客户如何决定</a></td>
 </tr>
 <tr>
-<td align="center"><a href="books/organizational-memory/README.md"><img src="books/organizational-memory/assets/preview/cover.jpg" width="170" alt="组织记忆封面"></a><br><a href="books/organizational-memory/README.md">组织记忆</a></td>
-<td align="center"><a href="books/customer-decisions/README.md"><img src="books/customer-decisions/assets/preview/cover.jpg" width="170" alt="客户如何决定封面"></a><br><a href="books/customer-decisions/README.md">客户如何决定</a></td>
-<td align="center"><a href="books/after-disconnection/README.md"><img src="books/after-disconnection/assets/preview/cover.jpg" width="170" alt="断网之后封面"></a><br><a href="books/after-disconnection/README.md">断网之后</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/after-disconnection/README.md"><img src="books/after-disconnection/assets/preview/cover.jpg" alt="断网之后封面" width="170"></a><br><a href="books/after-disconnection/README.md">断网之后</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/machine-companionship/README.md"><img src="books/machine-companionship/assets/preview/cover.jpg" alt="机器陪伴封面" width="170"></a><br><a href="books/machine-companionship/README.md">机器陪伴</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/good-technology/README.md"><img src="books/good-technology/assets/preview/cover.jpg" alt="好技术的尺度封面" width="170"></a><br><a href="books/good-technology/README.md">好技术的尺度</a></td>
 </tr>
 <tr>
-<td align="center"><a href="books/machine-companionship/README.md"><img src="books/machine-companionship/assets/preview/cover.jpg" width="170" alt="机器陪伴封面"></a><br><a href="books/machine-companionship/README.md">机器陪伴</a></td>
-<td align="center"><a href="books/good-technology/README.md"><img src="books/good-technology/assets/preview/cover.jpg" width="170" alt="好技术的尺度封面"></a><br><a href="books/good-technology/README.md">好技术的尺度</a></td>
-<td align="center"><a href="books/restraint/README.md"><img src="books/restraint/assets/preview/cover.jpg" width="170" alt="克制封面"></a><br><a href="books/restraint/README.md">克制</a></td>
+<td align="center" valign="top" width="33.33%"><a href="books/restraint/README.md"><img src="books/restraint/assets/preview/cover.jpg" alt="克制封面" width="170"></a><br><a href="books/restraint/README.md">克制</a></td>
 </tr>
 </table>
 <!-- book-cover-gallery:end -->
@@ -62,7 +62,6 @@
 | [答案之后：AI 时代的专业判断](books/professional-judgment/README.md) | 从问题定义、证据核验到复核与责任的专业判断方法。 | [Markdown](books/professional-judgment/output/markdown/professional-judgment.md) · [PDF（28页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment-markdown.zip) |
 | [一人公司的真实边界](books/solo-company/README.md) | 用需求、报价、交付和完整账目检验个人经营的边界。 | [Markdown](books/solo-company/output/markdown/solo-company.md) · [PDF（29页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/solo-company-markdown.zip) |
 | [AI 原生销售：从工具提效到决策共创](books/ai-native-sales/README.md) | 从客户研究到验证、谈判与复盘的八阶段协作方法。 | [Markdown](books/ai-native-sales/output/markdown/ai-native-sales.md) · [PDF（31页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.pdf) · [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales.epub) · [离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/ai-native-sales-markdown.zip) |
-
 
 ## 2026-11-11 新书九种
 
