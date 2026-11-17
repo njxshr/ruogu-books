@@ -1,0 +1,28 @@
+{
+  "title": "Kimi Work 红皮书",
+  "subtitle": "从真实任务到个人工作系统",
+  "author": "李钊",
+  "date": "2026-11-16",
+  "language": "zh-CN",
+  "description": "以九章正文、任务模板和验收清单，讲解如何使用 Kimi Work 完成文档、调研、长任务与自动化工作，并逐步建立可检查、可复用的个人工作系统。",
+  "identifier": "",
+  "output_basename": "Kimi_Work_红皮书",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版 · 1.0",
+  "publisher": "若谷书房",
+  "copyright": "© 2026 李钊 / 若谷书房",
+  "cover_label": "实战手册",
+  "cover_image": "",
+  "cover_background": "assets/cover-background.png",
+  "font_regular": "",
+  "font_bold": "",
+  "theme": {
+    "primary": "#8C1D25",
+    "secondary": "#6B3034",
+    "accent": "#C63D43",
+    "ink": "#292326",
+    "muted": "#74696B",
+    "paper": "#F7F1E8"
+  }
+}
