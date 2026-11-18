@@ -1,6 +1,6 @@
 # 若谷书房上架记录
 
-记录更新日期：2026-11-10。
+记录更新日期：2026-11-18。
 
 本记录分别保存首批五本已有成品书的整理记录，以及新作《把办公 Agent 用起来》的制作与上架记录。
 
@@ -91,3 +91,21 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 - 《克制》：PDF 17 页；Markdown、PDF、EPUB。
 
 本次核对格式存在、PDF 页数与元数据、Markdown 配图引用、EPUB ZIP 完整性，打包并计算 SHA-256；查看九本实际封面与正文第 7 页与第 10 或 11 页预览。原有检查记录不等同于本次重新核查全部来源或逐页审读。
+
+## 新作：《Kimi Work 红皮书》
+
+2026-11-16 形成第一版 · 1.0，2026-11-17 完成 20 轮专项审校、美化与最终复查。作者李钊，出版单位若谷书房。全书九章、四份附录，附通用任务委托模板、交付验收清单、排错表、练习路径和两张原创图示，PDF 共 55 页。书籍入口见 [README](books/kimi-work-redbook/README.md)，在线阅读见 [Markdown](books/kimi-work-redbook/output/markdown/Kimi_Work_红皮书.md)，下载使用 [kimi-work-redbook-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/kimi-work-redbook-v1.0)。
+
+已完成主稿与阅读包一致性检查、PDF 全部 55 页渲染查看、重点表格与代码块原页检查、固定页眉与页码检查，以及 EPUB 结构与浏览器预览。最终校验记录 24 个 manifest 项目、67 个导航链接，无空白内页。实际检查范围和限制见 [QA_REPORT](books/kimi-work-redbook/QA_REPORT.md)，逐轮修改见 [REVISION_LOG](books/kimi-work-redbook/REVISION_LOG.md)。
+
+“岚桥设备”及书中人物、材料和结果为原创模拟，未据此宣称真实客户成效或产品提效。[kimi-work-redbook-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/kimi-work-redbook-v1.0) 已于 2026-11-17 正式发布，PDF、EPUB、Markdown 离线包与 `SHA256SUMS.txt` 四份远端附件已逐份下载核对，大小、SHA-256 及逐字节比较均与本地一致。
+
+## 新作：《企业的制度剖面》
+
+2026-11-17 完成第一版 · 1.0 成书。作者李钊，出版单位若谷书房。全书四篇十五章、三个附录、17 项参考资料，PDF 共 72 页。书籍入口见 [README](books/enterprise-ownership/README.md)，在线阅读版见 [Markdown](books/enterprise-ownership/output/markdown/企业的制度剖面_李钊_20261117.md)。
+
+本书完成 20 轮专项编辑与检查，新增任务阅读路线、制度分析链、五维绩效框架、会议记录、现金压力情景、创新验证分级、交割后一百天整合、证据记录字段和综合示例输出约束。最终 PDF 全部 72 页已渲染查看；EPUB 结构检查记录 33 个 manifest 项、130 个导航链接，并在内置浏览器实际查看封面、目录、前言、第二章、第八章、附录 A 和参考资料，目录跳转、图片加载及 444 像素窄屏重排通过。具体范围见 [QA_REPORT](books/enterprise-ownership/QA_REPORT.md)，逐轮修改见 [REVISION_LOG](books/enterprise-ownership/REVISION_LOG.md)。
+
+本地附件已经生成：`enterprise-ownership.pdf`、`enterprise-ownership.epub`、`enterprise-ownership-markdown.zip` 与 `SHA256SUMS.txt`，三份阅读附件的大小和 SHA-256 已复核，离线 ZIP 完整性通过。资料核验日期保留 2026-11-16，不把 11-17 的编辑与成书记为重新核验外部来源。
+
+[enterprise-ownership-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/enterprise-ownership-v1.0) 已于 2026-11-17 正式发布。2026-11-18 通过 GitHub Release 附件接口逐份下载四份远端附件，大小、SHA-256 及逐字节比较均与本地一致。两本书已通过 Pull Request #1 以压缩合并方式同步到主分支，合并提交为 `4c71d7ef7f4493f11873d88fdf2ce2bedd22549a`。合并前已比对远端分支与本地的 614 份文件，路径与 Git blob SHA 全部一致。其他既有作品和上架记录均保留。
