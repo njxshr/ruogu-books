@@ -68,8 +68,9 @@
 | `kimi-work-redbook.pdf` | 1,263,036 | `5b776ae61c19c43ffbecb6892e8729745a6b280814377f25eb62a0886dcb0cec` |
 | `kimi-work-redbook.epub` | 671,927 | `b9614f6bf193029f4f83dedbb576af505329551051f9704e747696e162b4bf53` |
 | `kimi-work-redbook-markdown.zip` | 292,958 | `7361a70032cf8c19bff3d33a59d177c173082560e8acc657ae71c64031ed9ec1` |
+| `SHA256SUMS.txt` | 274 | `f40ee317f914de7faae4c9ea436478c3a052754120513187b478dd671967cb75` |
 
-远程发布结果与提交哈希在实际上传、下载核对后登记于根目录 `PUBLISHING.md`。本节当前数值仅对应上述本地附件。
+[kimi-work-redbook-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/kimi-work-redbook-v1.0) 已于 2026-11-17 发布。四份远端附件已逐份下载，字节数和 SHA-256 均与本地一致，逐字节比较通过。仓库主分支的同步状态另行登记于根目录 `PUBLISHING.md`。
 
 ## 范围与限制
 
