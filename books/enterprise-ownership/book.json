@@ -1,0 +1,34 @@
+{
+  "title": "企业的制度剖面",
+  "subtitle": "央企、国企、混合所有制与私企",
+  "author": "李钊",
+  "date": "2026-11-17",
+  "language": "zh-CN",
+  "description": "从出资、控制、治理、融资、激励、创新与责任切入，理解央企、国企、混合所有制企业与私企的真实运行。",
+  "identifier": "",
+  "output_basename": "企业的制度剖面_李钊_20261117",
+  "manuscript": "manuscript/book.md",
+  "page_size": "A5",
+  "edition": "第一版 · 1.0",
+  "publisher": "若谷书房",
+  "publisher_slogan": "内容来自全人类的智慧，感谢AI的高效率整合",
+  "cover_slogan_embedded": false,
+  "copyright": "版权所有 © 2026 李钊。保留所有权利。",
+  "cover_label": "制度比较与企业案例",
+  "cover_image": "",
+  "cover_background": "assets/cover-background.png",
+  "font_regular": "",
+  "font_bold": "",
+  "quality_contract": {
+    "chapter_heading_pattern": "^第[一二三四五六七八九十]+章",
+    "expected_chapters": 15
+  },
+  "theme": {
+    "primary": "#17324D",
+    "secondary": "#2F6F73",
+    "accent": "#D99A3D",
+    "ink": "#1F2937",
+    "muted": "#667085",
+    "paper": "#F7F3EA"
+  }
+}
