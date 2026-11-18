@@ -1,0 +1,3 @@
+5b776ae61c19c43ffbecb6892e8729745a6b280814377f25eb62a0886dcb0cec  kimi-work-redbook.pdf
+b9614f6bf193029f4f83dedbb576af505329551051f9704e747696e162b4bf53  kimi-work-redbook.epub
+7361a70032cf8c19bff3d33a59d177c173082560e8acc657ae71c64031ed9ec1  kimi-work-redbook-markdown.zip
