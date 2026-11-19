@@ -1,7 +1,7 @@
 {
   "source_pdf_name": "好技术的尺度_李钊_20261111.pdf",
-  "source_sha256": "08abacad49b897f46f2822c2af65218b8877aac03df7f7a49031b62044aa901a",
-  "total_pages": 17,
+  "source_sha256": "669633aab6730c34489304b3909db05e538ca3110438eba892d45e9d790f65ec",
+  "total_pages": 50,
   "assets": [
     {
       "asset": "cover.jpg",
@@ -15,22 +15,22 @@
     },
     {
       "asset": "sample-01.jpg",
-      "page": 7,
+      "page": 10,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "53be5c27041ed02e57b330703ae69fae174f919fafef6284616041d44b306adf",
+      "sha256": "469d2dbe1e3211cc3cf5cd68c7b97db76bdd1cd30076f9aa2428055408f6d4ec",
       "backend": "pdfium"
     },
     {
       "asset": "sample-02.jpg",
-      "page": 10,
+      "page": 20,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "0252566b66ed5f3ed9b73720ddfd49fd81d731b917fe9dedfca8506214ab72d4",
+      "sha256": "d0a62f898646ef169bac20be145d6f25a823e594c55e9885cff54be7f7edebd5",
       "backend": "pdfium"
     }
   ]

@@ -9,7 +9,7 @@
   "output_basename": "客户如何决定_李钊_20261111",
   "manuscript": "manuscript/book.md",
   "page_size": "A5",
-  "edition": "第一版",
+  "edition": "增订版 · 1.1",
   "publisher": "晓翊工作室",
   "copyright": "版权所有 © 2026 李钊。保留所有权利。",
   "cover_label": "原创电子书",
@@ -24,5 +24,6 @@
     "ink": "#27314A",
     "muted": "#6E7690",
     "paper": "#F5F1EA"
-  }
+  },
+  "revision": "2026-11-19"
 }
