@@ -22,8 +22,8 @@ jobs:
           set -euo pipefail
           test -f .publish-upload/expanded-books-upload.tar.gz
           echo "e9d832a66e43ed85877e88064a3f6b10869640acf0a0e925c786f59c96db2b32  .publish-upload/expanded-books-upload.tar.gz" | sha256sum -c -
-          test "$(tar -tzf .publish-upload/expanded-books-upload.tar.gz | wc -l)" -eq 162
-          tar -xzf .publish-upload/expanded-books-upload.tar.gz
+          test "$(tar --warning=no-unknown-keyword -tzf .publish-upload/expanded-books-upload.tar.gz | wc -l)" -eq 162
+          tar --warning=no-unknown-keyword -xzf .publish-upload/expanded-books-upload.tar.gz
           git rm -r --cached .publish-upload .github/workflows/apply-expanded-books.yml
           rm -rf .publish-upload .github/workflows/apply-expanded-books.yml
           git add -A
