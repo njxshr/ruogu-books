@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - publish-expanded-books-20261119
-    paths:
-      - .github/workflows/apply-expanded-books.yml
+  pull_request:
+    types:
+      - opened
 
 permissions:
   contents: write
@@ -15,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: publish-expanded-books-20261119
 
       - name: Verify and extract the publication package
         shell: bash
