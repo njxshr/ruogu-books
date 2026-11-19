@@ -1,0 +1,154 @@
+name: Publish twelve expanded books
+
+on:
+  push:
+    branches:
+      - publish-expanded-books-20261119
+    paths:
+      - .github/workflows/publish-expanded-release.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish-release:
+    runs-on: ubuntu-latest
+    env:
+      REPO: njxshr/ruogu-books
+      TAG: expanded-books-20261119-v1.1
+      TARGET: 4964ec480cd978176b095258c13560bb6c09e301
+      GH_TOKEN: ${{ github.token }}
+      TITLE: 若谷书房｜十二本增订版 1.1
+      ASSET_DIR: /tmp/expanded-books-release-assets
+    steps:
+      - name: Check out the publication merge commit
+        uses: actions/checkout@v4
+        with:
+          ref: 4964ec480cd978176b095258c13560bb6c09e301
+
+      - name: Stage and verify all release assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          if gh release view "$TAG" --repo "$REPO" >/dev/null 2>&1; then
+            echo "Release $TAG already exists; refusing to create it again."
+            exit 1
+          fi
+          mkdir -p "$ASSET_DIR"
+          for slug in \
+            after-disconnection \
+            good-technology \
+            idea-to-work \
+            customer-decisions \
+            machine-companionship \
+            organizational-memory \
+            restraint \
+            quantified-self \
+            solo-editorial \
+            professional-judgment \
+            solo-company \
+            ai-native-sales
+          do
+            cp "books/$slug/release/$slug.pdf" "$ASSET_DIR/"
+            cp "books/$slug/release/$slug.epub" "$ASSET_DIR/"
+            cp "books/$slug/release/$slug-markdown.zip" "$ASSET_DIR/"
+          done
+          cat > "$ASSET_DIR/SHA256SUMS.txt" <<'CHECKSUMS'
+          d5422a05f3b43811de5191234eb082d776be653ff939602b69f39b234f96ac97  after-disconnection-markdown.zip
+          de6c7f389e2a971cfc7123149d4ffb9ed026f880b4a6f7ab43b58af1bae2b065  after-disconnection.epub
+          d174cf49137d34d652f1f2cc9bb8d3ae85b4dc59a5c08b11adc96d4ba6f0db51  after-disconnection.pdf
+          3c8d6d6bdb82c4ed0b48b7c75bbffc927c7db943a852490038e5e1aadc60ff3f  ai-native-sales-markdown.zip
+          24e794eeda8dd377003d5cc3586c3aa139d36258b6b2c76a2acaca518896ecdd  ai-native-sales.epub
+          9fa1dff0d12b5f99418adf293adc0bd3daa01d1241733994dab5be1a906c1c84  ai-native-sales.pdf
+          7788b841a01145704422f22a82ad55236572758eda7e5e47d8420a0109862f53  customer-decisions-markdown.zip
+          b9275317eb5c156d0fd8811b3704abc1dcbb36f6c0ac2dfaad2b0c891426a284  customer-decisions.epub
+          6db1db36bf390b57bd3adaca55fd2c0fde8f0d34ce76c4c6461e1683b8eed46c  customer-decisions.pdf
+          884f6a09ebe6de410039a4f84d44e3ee57c4a546f0e847332cdd6ae102641b84  good-technology-markdown.zip
+          49b4a3ab7dd076fd0fe0d0b8cae7de6781f85ba5a9e8b92ab08cfab61bd609ea  good-technology.epub
+          669633aab6730c34489304b3909db05e538ca3110438eba892d45e9d790f65ec  good-technology.pdf
+          d74abd569c20057eb1603abd49c60310ed4c112b4a79caab45a69d7adab8360a  idea-to-work-markdown.zip
+          281a297dff2bde55dc3cbc47d43c6334e305f731492e3fd719f7eb28d76136bd  idea-to-work.epub
+          2fdedc1a750c2c5a7bc6c6584793c52cd4c0dfdcdd01581d686c513edee944fa  idea-to-work.pdf
+          8f4ee18a531a17b1ddd70593a2d183e3ff87e8a4c23d0988181970da108ec97f  machine-companionship-markdown.zip
+          e09be62ade7eab2d5d20999dc3f6fcfdad4067d306e6787c1c655c49d1cabd0e  machine-companionship.epub
+          5579df16ab8ae2af6e3bd098b45b90c0868f0f77d38c6b45ffbaa0f979ec575b  machine-companionship.pdf
+          e056a2b82e522b28bde93f8cf2f905c6bc0b32bb9dd68cb0caf5a94d1b0ed248  organizational-memory-markdown.zip
+          82466def0a207f36a7c0dafd0691191c878c62f9080e586c1f1793c198f2da07  organizational-memory.epub
+          7598355ed7aa088496a8081e976daa3da61e683d55dccf385bf54418ee1eddd8  organizational-memory.pdf
+          1d274692ebf561f5c0e69732a86d49f4253caeac0be97fedbbfe98793fd35c14  professional-judgment-markdown.zip
+          6aaa91200bca707468d33113b069541205f4d747f04ea38af65ab73b29f9234f  professional-judgment.epub
+          232d26c21b844ab4665c39697e74269dc7dd0585d6cd1ec87277bc2fc354898a  professional-judgment.pdf
+          5fd3b9eacc4f3d65327d52e114329a4d60b3dc2b4ced8b46a50552b9bcf085b7  quantified-self-markdown.zip
+          b848d71ab5628476f12b061cb8bc4b8b105827f7384acbd326617ca0aa083092  quantified-self.epub
+          4249fcbd5527d581814d035ff8153bddb683ac4b532d48402f8fe3f95f4af4ea  quantified-self.pdf
+          8c5564ceef8d8b63a71f695b7a000d6b082e8408352f7e00ae06cab6ee8299c4  restraint-markdown.zip
+          67f55d00ab3e3cd0021897ff3460e6858243d72534b4b898ae8ca173eebbedc9  restraint.epub
+          7068595832c1f7721e3f93aa7ce71038a8c260faf83f9b87fb64c930e81dea8b  restraint.pdf
+          6423e807e2de0ce04c9f6fa0c3142a7e8f22d6eb9f6906ddd9674c559f97c27a  solo-company-markdown.zip
+          00370ad1b9543eb8d63b0d9afac55623236fb1364a5f789ec37637985312a8d5  solo-company.epub
+          d9d858b87dd21c4cb96c276491abad27001e6c9c41eba9d4c7313e63088d1c52  solo-company.pdf
+          941fe8f1189e69b7214bdaa8e11536438153c6c2c2dd4aa9de73a1b5f518a40e  solo-editorial-markdown.zip
+          7e95d1dd0a51d775506bb849de3c330e74d11137a5d5d6af9d28f3b66ea728e3  solo-editorial.epub
+          9eb644897c470c145ad62b8c7c35b10ed7b85b2cf71adf5365eed22bb0807fc0  solo-editorial.pdf
+          CHECKSUMS
+          cd "$ASSET_DIR"
+          sha256sum -c SHA256SUMS.txt
+          shopt -s nullglob
+          assets=(*)
+          test "${#assets[@]}" -eq 37
+          echo "Verified ${#assets[@]} release files."
+
+      - name: Write the reviewed release notes
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat > /tmp/expanded-books-release-notes.md <<'NOTES'
+          # 若谷书房｜十二本增订版 1.1
+
+          发布日期：2026-11-19。
+
+          十二本原正式 PDF 少于 50 页的书均完成 20 轮有记录的内容与质量工作，补充实践章节、模拟练习、失败分支和可填写工作表，重新生成 Markdown、PDF 与 EPUB。新版 PDF 合计 616 页，每本不少于 50 页。
+
+          | 书籍 | 原 PDF | 增订版 PDF |
+          | --- | ---: | ---: |
+          | 断网之后 | 17 页 | 50 页 |
+          | 好技术的尺度 | 17 页 | 50 页 |
+          | 从想法到作品 | 19 页 | 51 页 |
+          | 客户如何决定 | 17 页 | 50 页 |
+          | 机器陪伴 | 18 页 | 51 页 |
+          | 组织记忆 | 17 页 | 50 页 |
+          | 克制 | 17 页 | 51 页 |
+          | 被量化的自己 | 18 页 | 50 页 |
+          | 一人编辑部 | 18 页 | 51 页 |
+          | 答案之后：AI 时代的专业判断 | 28 页 | 52 页 |
+          | 一人公司的真实边界 | 29 页 | 54 页 |
+          | AI 原生销售：从工具提效到决策共创 | 31 页 | 56 页 |
+
+          每本提供 `PDF`、`EPUB` 和 `Markdown 离线 ZIP`，共 36 份阅读附件；`SHA256SUMS.txt` 按文件名排序，记录这 36 份附件的 SHA-256。
+
+          - 保留原作者、出版单位、原书日期和原有章节顺序。
+          - 模拟人物、对话、经营数字、测试与结果均保留材料性质标注，不据此宣称真实客户成效。
+          - 原有来源核查范围与增订内容的边界分别记录，重新成书不等于重新核验全部历史来源。
+          - 全部 PDF 已渲染并完成整页总览检查，自动空白页检测为零；EPUB 导航与本地资源已检查。
+          - 主稿、阅读版、出版配置、检查报告和逐轮记录随仓库主分支发布。
+          NOTES
+
+      - name: Publish the release and verify its metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh release create "$TAG" "$ASSET_DIR"/* \
+            --repo "$REPO" \
+            --target "$TARGET" \
+            --title "$TITLE" \
+            --notes-file /tmp/expanded-books-release-notes.md \
+            --latest
+          gh api "repos/$REPO/releases/tags/$TAG" > /tmp/expanded-books-release.json
+          jq -e --arg tag "$TAG" --arg target "$TARGET" '
+            .tag_name == $tag and
+            .target_commitish == $target and
+            .draft == false and
+            (.assets | length == 37)
+          ' /tmp/expanded-books-release.json
+          jq '{tag_name,target_commitish,draft,html_url,asset_count:(.assets|length)}' /tmp/expanded-books-release.json
