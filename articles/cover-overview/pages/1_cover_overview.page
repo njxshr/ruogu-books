@@ -1,0 +1,305 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: brand-mark
+    elementType: shape
+    bounds: [72, 68, 12, 12]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: brand-name
+    elementType: text
+    bounds: [100, 56, 610, 40]
+    content:
+      style: "$eyebrow"
+      align: [left, middle]
+      wrap: false
+      text: RUOGU BOOKS · 若谷书房
+  - elementId: publish-date
+    elementType: text
+    bounds: [772, 56, 236, 40]
+    content:
+      fontFamily: MiSans
+      fontSize: 18
+      color: "$muted"
+      align: [right, middle]
+      wrap: false
+      text: "2026.11.19"
+  - elementId: main-title
+    elementType: text
+    bounds: [72, 112, 720, 86]
+    content:
+      style: "$title"
+      align: [left, middle]
+      wrap: false
+      text: 十二本增订版
+  - elementId: version
+    elementType: text
+    bounds: [842, 106, 166, 88]
+    content:
+      fontFamily: 思源宋体
+      fontSize: 68
+      bold: true
+      color: "$accent"
+      align: [right, middle]
+      wrap: false
+      text: "1.1"
+  - elementId: subtitle
+    elementType: text
+    bounds: [72, 206, 760, 44]
+    content:
+      style: "$subtitle"
+      align: [left, middle]
+      wrap: false
+      text: 把方法写成可以动手的样子
+  - elementId: formats
+    elementType: text
+    bounds: [72, 254, 780, 30]
+    content:
+      fontFamily: MiSans
+      fontSize: 18
+      color: "$muted"
+      align: [left, middle]
+      wrap: false
+      text: 李钊著｜PDF · EPUB · Markdown 离线包
+  - elementId: header-rule
+    elementType: shape
+    bounds: [72, 300, 936, 2]
+    shapeName: rect
+    fill: {type: solid, color: "$rule"}
+
+  - elementId: cover-01
+    elementType: image
+    bounds: [116, 320, 200, 284]
+    src: media/after-disconnection.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-02
+    elementType: image
+    bounds: [440, 320, 200, 284]
+    src: media/good-technology.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-03
+    elementType: image
+    bounds: [764, 320, 200, 284]
+    src: media/idea-to-work.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: title-01
+    elementType: text
+    bounds: [66, 618, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 断网之后}
+  - elementId: title-02
+    elementType: text
+    bounds: [390, 618, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 好技术的尺度}
+  - elementId: title-03
+    elementType: text
+    bounds: [714, 618, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 从想法到作品}
+
+  - elementId: cover-04
+    elementType: image
+    bounds: [116, 670, 200, 284]
+    src: media/customer-decisions.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-05
+    elementType: image
+    bounds: [440, 670, 200, 284]
+    src: media/machine-companionship.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-06
+    elementType: image
+    bounds: [764, 670, 200, 284]
+    src: media/organizational-memory.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: title-04
+    elementType: text
+    bounds: [66, 968, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 客户如何决定}
+  - elementId: title-05
+    elementType: text
+    bounds: [390, 968, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 机器陪伴}
+  - elementId: title-06
+    elementType: text
+    bounds: [714, 968, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 组织记忆}
+
+  - elementId: cover-07
+    elementType: image
+    bounds: [116, 1020, 200, 284]
+    src: media/restraint.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-08
+    elementType: image
+    bounds: [440, 1020, 200, 284]
+    src: media/quantified-self.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-09
+    elementType: image
+    bounds: [764, 1020, 200, 284]
+    src: media/solo-editorial.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: title-07
+    elementType: text
+    bounds: [66, 1318, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 克制}
+  - elementId: title-08
+    elementType: text
+    bounds: [390, 1318, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 被量化的自己}
+  - elementId: title-09
+    elementType: text
+    bounds: [714, 1318, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 一人编辑部}
+
+  - elementId: cover-10
+    elementType: image
+    bounds: [116, 1370, 200, 284]
+    src: media/professional-judgment.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-11
+    elementType: image
+    bounds: [440, 1370, 200, 284]
+    src: media/solo-company.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: cover-12
+    elementType: image
+    bounds: [764, 1370, 200, 284]
+    src: media/ai-native-sales.jpg
+    fit: {mode: contain}
+    border: {style: solid, width: 1, color: "$coverBorder"}
+    shadow: {blur: 12, color: "#2C241526", offset: [0, 6]}
+  - elementId: title-10
+    elementType: text
+    bounds: [66, 1668, 300, 56]
+    content:
+      style: "$book"
+      align: [center, top]
+      text: |-
+        答案之后
+        AI 时代的专业判断
+  - elementId: title-11
+    elementType: text
+    bounds: [390, 1668, 300, 30]
+    content: {style: "$book", align: [center, top], wrap: false, text: 一人公司的真实边界}
+  - elementId: title-12
+    elementType: text
+    bounds: [714, 1668, 300, 56]
+    content:
+      style: "$book"
+      align: [center, top]
+      text: |-
+        AI 原生销售
+        从工具提效到决策共创
+
+  - elementId: footer-rule
+    elementType: shape
+    bounds: [72, 1748, 936, 2]
+    shapeName: rect
+    fill: {type: solid, color: "$rule"}
+  - elementId: pages-number
+    elementType: text
+    bounds: [72, 1770, 160, 62]
+    content:
+      fontFamily: MiSans
+      fontSize: 54
+      bold: true
+      color: "$accent"
+      align: [left, middle]
+      wrap: false
+      text: "616"
+  - elementId: pages-label
+    elementType: text
+    bounds: [72, 1836, 170, 28]
+    content: {style: "$small", align: [left, middle], wrap: false, text: 新版 PDF 总页数}
+  - elementId: books-number
+    elementType: text
+    bounds: [270, 1770, 100, 62]
+    content:
+      fontFamily: MiSans
+      fontSize: 54
+      bold: true
+      color: "$ink"
+      align: [left, middle]
+      wrap: false
+      text: "12"
+  - elementId: books-label
+    elementType: text
+    bounds: [270, 1836, 130, 28]
+    content: {style: "$small", align: [left, middle], wrap: false, text: 增订书目}
+  - elementId: rounds-number
+    elementType: text
+    bounds: [430, 1770, 100, 62]
+    content:
+      fontFamily: MiSans
+      fontSize: 54
+      bold: true
+      color: "$ink"
+      align: [left, middle]
+      wrap: false
+      text: "20"
+  - elementId: rounds-label
+    elementType: text
+    bounds: [430, 1836, 150, 28]
+    content: {style: "$small", align: [left, middle], wrap: false, text: 每本完善轮次}
+  - elementId: formats-number
+    elementType: text
+    bounds: [620, 1770, 80, 62]
+    content:
+      fontFamily: MiSans
+      fontSize: 54
+      bold: true
+      color: "$ink"
+      align: [left, middle]
+      wrap: false
+      text: "3"
+  - elementId: formats-label
+    elementType: text
+    bounds: [600, 1836, 210, 28]
+    content: {style: "$small", align: [left, middle], wrap: false, text: PDF / EPUB / ZIP}
+  - elementId: release-qr
+    elementType: image
+    bounds: [878, 1768, 112, 112]
+    src: media/release-qr.png
+    fit: {mode: contain}
+  - elementId: release-tag
+    elementType: text
+    bounds: [72, 1884, 660, 24]
+    content:
+      style: "$small"
+      align: [left, middle]
+      wrap: false
+      text: Release：expanded-books-20261119-v1.1
+  - elementId: qr-label
+    elementType: text
+    bounds: [838, 1884, 192, 24]
+    content:
+      fontFamily: MiSans
+      fontSize: 15
+      color: "$muted"
+      align: [center, middle]
+      wrap: false
+      text: 扫码进入统一 Release
