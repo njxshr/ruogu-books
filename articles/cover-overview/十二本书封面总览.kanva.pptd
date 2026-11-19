@@ -1,0 +1,42 @@
+version: v2
+title: 若谷书房｜十二本增订版 1.1
+size: [1080, 1920]
+customFonts:
+  - family: 思源宋体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/思源宋体.ttf"
+  - family: MiSans
+    src: "https://statics.kimi.ai/neo-design-static/p-font/MiSans.ttf"
+theme:
+  colors:
+    paper: "#F4F0E8"
+    ink: "#1F2523"
+    muted: "#68675F"
+    accent: "#A33B32"
+    rule: "#CFC7B8"
+    coverBorder: "#D8D0C2"
+  textStyles:
+    eyebrow:
+      fontFamily: MiSans
+      fontSize: 20
+      color: "$muted"
+      letterSpacing: 2
+    title:
+      fontFamily: 思源宋体
+      fontSize: 64
+      color: "$ink"
+      bold: true
+    subtitle:
+      fontFamily: MiSans
+      fontSize: 28
+      color: "$ink"
+    book:
+      fontFamily: MiSans
+      fontSize: 20
+      color: "$ink"
+      lineHeight: 1.25
+    small:
+      fontFamily: MiSans
+      fontSize: 16
+      color: "$muted"
+pages:
+  - pages/1_cover_overview.page
