@@ -31,17 +31,21 @@ jobs:
 
           archive_path = Path(".publish-upload/expanded-books-upload.tar.gz")
           with tarfile.open(archive_path, "r:gz") as archive:
-              members = archive.getmembers()
+              all_members = archive.getmembers()
+              members = [member for member in all_members if not Path(member.name).name.startswith("._")]
+              metadata_count = len(all_members) - len(members)
               assert len(members) == 162, f"Expected 162 files, found {len(members)}"
+              assert metadata_count == 162, f"Expected 162 metadata entries, found {metadata_count}"
               for member in members:
                   path = Path(member.name)
                   assert not path.is_absolute() and ".." not in path.parts, member.name
                   assert member.isfile(), member.name
               archive.extractall(Path("."), members=members, filter="data")
-              print(f"Extracted {len(members)} publication files")
+              print(f"Extracted {len(members)} files; skipped {metadata_count} macOS metadata entries")
           PY
           git rm -r --cached .publish-upload .github/workflows/apply-expanded-books.yml
           rm -rf .publish-upload .github/workflows/apply-expanded-books.yml
+          git config core.autocrlf true
           git add -A
           if git diff --cached --quiet; then
             echo "The publication package produced no changes"
