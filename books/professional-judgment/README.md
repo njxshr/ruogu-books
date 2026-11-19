@@ -1,84 +1,80 @@
 # 答案之后：AI 时代的专业判断
 
-<a href="assets/preview/cover.jpg"><img src="assets/preview/cover.jpg" alt="《答案之后：AI 时代的专业判断》正式 PDF 封面" width="340"></a>
+作者：李钊 · 出版单位：若谷书房  
+增订版 1.1 · 原书日期：2026-11-10 · 增订日期：2026-11-19 · PDF 52 页
 
-**李钊著 · 若谷书房 · 第一版 1.0 · 2026-11-10 · PDF 28 页**
+<img src="assets/preview/cover.jpg" width="360" alt="答案之后：AI 时代的专业判断封面">
 
-当 AI 能随时给出答案，专业人士怎样定义问题、核验证据、识别例外，并承担决定的后果？
+## 阅读导引
 
-[在线阅读全文](output/markdown/professional-judgment.md) · [下载 PDF](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.pdf) · [下载 EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.epub) · [Markdown 离线包](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment-markdown.zip)
+本次增订保留原书基础内容、署名和出版记录，形成15章、6份附录。新增实践方法、综合模拟、练习与可直接使用的工作表；模拟人物、数字和结果不构成真实客户成效或专业结果保证。
 
-## 这本书讨论什么
-
-本书沿着一次决定的形成过程展开：先把请求翻译成明确的决定，再区分事实、解释与愿望，沿来源核验关键主张，安排反方检验、风险分级和人工复核，最后把执行、补救与重新判断接起来。
-
-书中用日常工作场景说明判断怎样失效，也讨论证据冲突、紧迫情境与复核资源不足。读者可以带走一页判断记录和复核会议问题，把“我同意”变成能够解释、检查与修正的选择。
-
-## 适合谁读
-
-需要审核报告、作出业务决定或对外承诺的知识工作者、管理者与专业人士；无需编程背景。
-
-## 怎样阅读
-
-| 当前需要 | 建议先读 | 带着什么问题读 |
-| --- | --- | --- |
-| 先处理一份可疑报告 | [第02章　事实、解释与愿望之间](output/markdown/professional-judgment.md#user-content-第02章事实解释与愿望之间)、[第03章　沿着来源走回去](output/markdown/professional-judgment.md#user-content-第03章沿着来源走回去) | 拆分事实与推断，核对关键来源。 |
-| 改进团队复核 | [第04章　让反方真正有机会改变结论](output/markdown/professional-judgment.md#user-content-第04章让反方真正有机会改变结论)、[第05章　按后果分配谨慎](output/markdown/professional-judgment.md#user-content-第05章按后果分配谨慎)、[第06章　人工复核怎样才不只是签字](output/markdown/professional-judgment.md#user-content-第06章人工复核怎样才不只是签字) | 检查反方意见、风险与人工复核是否真的影响行动。 |
-| 留下可负责的决定 | [第07章　决定之后，责任才真正开始](output/markdown/professional-judgment.md#user-content-第07章决定之后责任才真正开始) | 连接责任、补救与更新条件，再使用附录 A、B。 |
+读者可先浏览前言与原七章建立共同概念，再按当前任务选读新增章节和附录。表格需结合自己的资料填写，动态规则、产品能力和专业事项仍按当前正式来源核实。
 
 ## 完整目录
 
 <details>
-<summary>展开前言、7 章、结语与附录目录</summary>
+<summary>展开全书目录</summary>
 
-- [前言　得到答案以后，还剩下什么](output/markdown/professional-judgment.md#user-content-前言得到答案以后还剩下什么)
-- [第01章　先判断，自己在决定什么](output/markdown/professional-judgment.md#user-content-第01章先判断自己在决定什么)
-- [第02章　事实、解释与愿望之间](output/markdown/professional-judgment.md#user-content-第02章事实解释与愿望之间)
-- [第03章　沿着来源走回去](output/markdown/professional-judgment.md#user-content-第03章沿着来源走回去)
-- [第04章　让反方真正有机会改变结论](output/markdown/professional-judgment.md#user-content-第04章让反方真正有机会改变结论)
-- [第05章　按后果分配谨慎](output/markdown/professional-judgment.md#user-content-第05章按后果分配谨慎)
-- [第06章　人工复核怎样才不只是签字](output/markdown/professional-judgment.md#user-content-第06章人工复核怎样才不只是签字)
-- [第07章　决定之后，责任才真正开始](output/markdown/professional-judgment.md#user-content-第07章决定之后责任才真正开始)
-- [结语　把“我同意”说得更清楚](output/markdown/professional-judgment.md#user-content-结语把我同意说得更清楚)
-- [附录A　一页判断记录](output/markdown/professional-judgment.md#user-content-附录a一页判断记录)
-- [附录B　复核会议的六个问题](output/markdown/professional-judgment.md#user-content-附录b复核会议的六个问题)
-- [来源与方法说明](output/markdown/professional-judgment.md#user-content-来源与方法说明)
-- [若谷书房](output/markdown/professional-judgment.md#user-content-若谷书房)
+- 前言　得到答案以后，还剩下什么
+- 第01章　先判断，自己在决定什么
+- 第02章　事实、解释与愿望之间
+- 第03章　沿着来源走回去
+- 第04章　让反方真正有机会改变结论
+- 第05章　按后果分配谨慎
+- 第06章　人工复核怎样才不只是签字
+- 第07章　决定之后，责任才真正开始
+- 第08章　决定材料包：让讨论从同一组事实开始
+- 第09章　证据冲突：把调查动作安排到分歧上
+- 第10章　高影响决定：告知、异议与申诉要进入设计
+- 第11章　复核负担：给真正的人留出时间与拒绝权
+- 第12章　撤回与补救：决定错误以后怎样减少伤害
+- 第13章　跨职能综合演练：一项供应商建议怎样经过判断
+- 第14章　判断交接：负责人不在场时谁能改变决定
+- 第15章　三十天判断实践：把方法变成一组真实记录
+- 结语　把“我同意”说得更清楚
+- 附录A　一页判断记录
+- 附录B　复核会议的六个问题
+- 附录C　决定材料包模板
+- 附录D　证据冲突与申诉合并记录
+- 附录E　撤回、恢复与判断交接包
+- 附录F　三十天判断实践记录册
+- 来源与方法说明
+- 若谷书房
 
 </details>
 
-目录名称和顺序取自正式阅读版；以上链接指向 GitHub 正文的实际章节锚点。
-
 ## 实际内页预览
 
-下列图片均直接渲染自已发布的正式 PDF，点击可放大。页码为从 1 起算、包含封面的 **PDF 文件页码**。
+页码包含封面，从 1 起算。样页由本次 52 页 PDF 重新生成。
 
-### 来源核验与 Mata v. Avianca 真实案例节选
+PDF 文件第 9 页：前言。
 
-<a href="assets/preview/sample-01.jpg"><img src="assets/preview/sample-01.jpg" alt="来源核验与 Mata v. Avianca 真实案例节选，PDF 文件第 13 页" width="520"></a>
+![正文样页](assets/preview/sample-01.jpg)
 
-PDF 文件第 **13** 页。
+PDF 文件第 27 页：新增实践章节。
 
-### 附录 A：一页判断记录
+![正文样页](assets/preview/sample-02.jpg)
 
-<a href="assets/preview/sample-02.jpg"><img src="assets/preview/sample-02.jpg" alt="附录 A：一页判断记录，PDF 文件第 25 页" width="520"></a>
-
-PDF 文件第 **25** 页。
-
-## 案例与证据边界
-
-Mata v. Avianca 依据法院文书；Knight Capital 依据 SEC 监管材料，后者是传统自动化事故，不是生成式 AI 事故。案例记载与本书分析分别标注，不能据此推断所有行业的法律后果。其余模拟练习不代表作者亲历或实证结果。
-
-## 阅读、下载与来源
+## 阅读与下载
 
 - [Markdown 在线阅读](output/markdown/professional-judgment.md)
-- [PDF（28 页）](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.pdf)
-- [EPUB](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment.epub)
-- [Markdown 离线 ZIP](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/professional-judgment-markdown.zip)
-- [第一版 Release](https://github.com/njxshr/ruogu-books/releases/tag/a1-a3-v1.0) · [附件 SHA-256](https://github.com/njxshr/ruogu-books/releases/download/a1-a3-v1.0/SHA256SUMS.txt)
-- [来源账本](SOURCES.md) · [修订记录](REVISION_LOG.md) · [成书检查](QA_REPORT.md)
-- [唯一主稿](manuscript/book.md) · [制作说明](BUILD.md) · [书房目录](../../目录.md)
+- [PDF · 52 页](https://github.com/njxshr/ruogu-books/releases/download/expanded-books-20261119-v1.1/professional-judgment.pdf)
+- [EPUB](https://github.com/njxshr/ruogu-books/releases/download/expanded-books-20261119-v1.1/professional-judgment.epub)
+- [Markdown 离线包（正文与实际生成资源）](https://github.com/njxshr/ruogu-books/releases/download/expanded-books-20261119-v1.1/professional-judgment-markdown.zip)
 
-## 版本与使用说明
+## 增订与检查
 
-本次仅完善介绍与实际页面预览，正文、第一版阅读成品、Release 标签和下载 URL 保持原样。公开阅读与下载不自动授予新的开放许可；第三方材料权利归原权利人所有，复用请核对书内说明及适用授权。
+[20 轮增订记录](REVISION_LOG.md) · [实际检查报告](QA_REPORT.md)
+
+本次重新生成 Markdown、PDF 和 EPUB。PDF 全部 52 页已渲染并逐张查看总览；EPUB 解包读取封面、前中后章节，98 个导航目标与本地资源检查通过。具体范围与限制见报告。
+
+## 来源与权利
+
+[来源记录](SOURCES.md) · [主稿](manuscript/book.md) · [出版配置](book.json)
+
+来源记录保留原有核查范围。本次扩充没有借综合模拟或练习新增真实访谈、客户成效和统计证据，也没有将重新成书记为全部旧来源的再次独立核验。
+
+© 2026 李钊／若谷书房。第三方资料的权利归原权利人所有。公开阅读与下载不另行授予开放许可。
+
+[返回书目](../../目录.md)

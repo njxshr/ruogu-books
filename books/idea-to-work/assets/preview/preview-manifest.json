@@ -1,7 +1,7 @@
 {
   "source_pdf_name": "从想法到作品_李钊_20261111.pdf",
-  "source_sha256": "ac24654a6150170252c775a91107a26aaba13ab3faff2d3230fbffc837d4595e",
-  "total_pages": 19,
+  "source_sha256": "2fdedc1a750c2c5a7bc6c6584793c52cd4c0dfdcdd01581d686c513edee944fa",
+  "total_pages": 51,
   "assets": [
     {
       "asset": "cover.jpg",
@@ -15,22 +15,22 @@
     },
     {
       "asset": "sample-01.jpg",
-      "page": 7,
+      "page": 9,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "ed20fccc6a4bee06ab528e0b7b8e6a83638ab7a74e24bc3c87991c7bfea38051",
+      "sha256": "75fe216f166697dc3405f3db9b3a6c6ae5247ef913a0282d4677a5ae141df955",
       "backend": "pdfium"
     },
     {
       "asset": "sample-02.jpg",
-      "page": 11,
+      "page": 21,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "a58b0bff4e3e9884e15cde6d39dcfc6539e91634d3a40063168ee67566203bb8",
+      "sha256": "e4fa0403a9d1f144a678be96ed73dc4c736f83080825976a205e399a52b5ee06",
       "backend": "pdfium"
     }
   ]

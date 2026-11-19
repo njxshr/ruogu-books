@@ -1,37 +1,37 @@
 {
   "source_pdf_name": "professional-judgment.pdf",
-  "source_sha256": "6046c0b9f01b069be1c0aa2066eb399408e18e4e894ff9c1296332f8088b9648",
-  "total_pages": 28,
+  "source_sha256": "232d26c21b844ab4665c39697e74269dc7dd0585d6cd1ec87277bc2fc354898a",
+  "total_pages": 52,
   "assets": [
     {
       "asset": "cover.jpg",
       "page": 1,
       "dimensions": [
-        1100,
-        1561
+        840,
+        1191
       ],
-      "sha256": "3605e938c2bb38d08c0b620c33c7a1490fea035bd0f59d09605870dd9c94b577",
-      "backend": "poppler"
+      "sha256": "b646e7d958c5c51320bc793655814276ce2f83b4e8449a2e9eea2c46df3322e7",
+      "backend": "pdfium"
     },
     {
       "asset": "sample-01.jpg",
-      "page": 13,
+      "page": 9,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "d12bd98b0b41a713703a460cb78f7f06641ce3be676fec9cb8fe46eea02f6d5b",
-      "backend": "poppler"
+      "sha256": "1bd1e3c66c7ce2b9065019109cd3e5aa396aeb9c52129f87d2c7fa94a7ab098e",
+      "backend": "pdfium"
     },
     {
       "asset": "sample-02.jpg",
-      "page": 25,
+      "page": 27,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "b7db2ceccf844edd50e3af3d5b4f089349e1a532b812f8417cda90a00b84f158",
-      "backend": "poppler"
+      "sha256": "7529df6a00c37a37190bd1ed2f99c3d40970c8cf9b89be673ac0b24a6c45b445",
+      "backend": "pdfium"
     }
   ]
 }

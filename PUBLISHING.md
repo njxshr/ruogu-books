@@ -1,6 +1,6 @@
 # 若谷书房上架记录
 
-记录更新日期：2026-11-18。
+记录更新日期：2026-11-19。
 
 本记录分别保存首批五本已有成品书的整理记录，以及新作《把办公 Agent 用起来》的制作与上架记录。
 
@@ -109,3 +109,26 @@ Git 仓库保存主稿、出版资源与 Markdown 在线阅读包。PDF、EPUB �
 本地附件已经生成：`enterprise-ownership.pdf`、`enterprise-ownership.epub`、`enterprise-ownership-markdown.zip` 与 `SHA256SUMS.txt`，三份阅读附件的大小和 SHA-256 已复核，离线 ZIP 完整性通过。资料核验日期保留 2026-11-16，不把 11-17 的编辑与成书记为重新核验外部来源。
 
 [enterprise-ownership-v1.0 Release](https://github.com/njxshr/ruogu-books/releases/tag/enterprise-ownership-v1.0) 已于 2026-11-17 正式发布。2026-11-18 通过 GitHub Release 附件接口逐份下载四份远端附件，大小、SHA-256 及逐字节比较均与本地一致。两本书已通过 Pull Request #1 以压缩合并方式同步到主分支，合并提交为 `4c71d7ef7f4493f11873d88fdf2ce2bedd22549a`。合并前已比对远端分支与本地的 614 份文件，路径与 Git blob SHA 全部一致。其他既有作品和上架记录均保留。
+
+## 2026-11-19：十二本增订版 1.1
+
+本次范围为原正式 PDF 少于 50 页的十二本书：2026-11-11 上架的九种短篇，以及 A1—A3 三种。保留各书原作者、出版单位、原日期和既有章节顺序，逐本进行 20 轮有明确对象的内容或质量工作；补足实践章节、模拟练习、失败分支及工作表后，重新生成 Markdown、PDF 和 EPUB。
+
+| 书籍目录 | 原 PDF | 增订版 PDF |
+| --- | ---: | ---: |
+| [断网之后](books/after-disconnection/README.md) | 17 | 50 |
+| [好技术的尺度](books/good-technology/README.md) | 17 | 50 |
+| [从想法到作品](books/idea-to-work/README.md) | 19 | 51 |
+| [客户如何决定](books/customer-decisions/README.md) | 17 | 50 |
+| [机器陪伴](books/machine-companionship/README.md) | 18 | 51 |
+| [组织记忆](books/organizational-memory/README.md) | 17 | 50 |
+| [克制](books/restraint/README.md) | 17 | 51 |
+| [被量化的自己](books/quantified-self/README.md) | 18 | 50 |
+| [一人编辑部](books/solo-editorial/README.md) | 18 | 51 |
+| [答案之后：AI 时代的专业判断](books/professional-judgment/README.md) | 28 | 52 |
+| [一人公司的真实边界](books/solo-company/README.md) | 29 | 54 |
+| [AI 原生销售：从工具提效到决策共创](books/ai-native-sales/README.md) | 31 | 56 |
+
+十二本新版合计 616 页，每本均不少于 50 页。内容核验覆盖版本、章节顺序、原章保留、占位内容、重复长段、模拟材料边界及关键计算。全部 PDF 已渲染并完成整页总览检查，自动空白页检测为零；EPUB 导航、锚点和本地资源已检查。逐书范围与限制见各自的 `QA_REPORT.md`、`REVISION_LOG.md` 和 `SOURCES.md`。
+
+十二本共生成 36 份阅读附件，总大小 22,163,928 字节，另生成按文件名排序的总 `SHA256SUMS.txt`。模拟人物、数字、复测与经营结果保留材料性质说明；新增方法和工作表不表示全部历史来源已重新独立核验。其他作品和既有发布记录保留。

@@ -5,10 +5,14 @@
 | 编号 | 作者／机构 | 资料 | 日期／版本 | 链接 | 支持内容与边界 |
 | --- | --- | --- | --- | --- | --- | --- |
 | B3-01 | CISA | Back Up Business Data | 动态指南 | [打开](https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/back-up-business-data) | 3-2-1 备份、自动定期执行、离线访问、恢复测试和团队训练。 |
-| B3-02 | CISA | #StopRansomware Guide | 2025 | [打开](https://www.cisa.gov/stopransomware/ransomware-guide) | 离线加密备份与完整性测试；同步可能把受损文件复制到云端。 |
+| B3-02 | CISA | #StopRansomware Guide | 2023；网页动态更新 | [打开](https://www.cisa.gov/stopransomware/ransomware-guide) | 离线加密备份与完整性测试；同步可能把受损文件复制到云端。 |
 | B3-03 | NIST | Contingency Planning Guide for Federal Information Systems | 2010 | [打开](https://csrc.nist.gov/pubs/sp/800/34/rev-1/final) | 连续性规划需明确关键功能、恢复优先级与演练；家庭使用属于简化迁移。 |
 | B3-04 | NIST | Guide for Cybersecurity Event Recovery | 2016 | [打开](https://csrc.nist.gov/pubs/sp/800/184/final) | 恢复不仅是备份，还包括计划、角色、沟通与改进。 |
 | B3-05 | 本地原始书稿 | 《智能生活》自动化失效与低自动化实验 | 2026 | 本地研究资料（未公开附载） | 保留基本能力、手动入口与家庭备用方案的场景基础。 |
+
+## 增订来源抽查（2026-11-19）
+
+重新读取了 CISA 备份指南、CISA #StopRansomware 指南与 NIST SP 800-184 页面。CISA 指南明确列出 3-2-1、离线加密副本、恢复测试与训练；正文沿用这些有限结论。NIST SP 800-34 链接本次访问返回 404，未据此新增事实；原方法性引用保留，并提示使用时复核官方现行版本。新增综合案例、模拟推演与工作单属于本书方法材料，没有新增访谈、统计或产品能力断言。
 
 ## 使用规则
 

@@ -1,7 +1,7 @@
 {
   "source_pdf_name": "一人编辑部_李钊_20261111.pdf",
-  "source_sha256": "57a61094fef59b56326100c6a9aef2edab5c070bd511981f54c0b19b5add5928",
-  "total_pages": 18,
+  "source_sha256": "9eb644897c470c145ad62b8c7c35b10ed7b85b2cf71adf5365eed22bb0807fc0",
+  "total_pages": 51,
   "assets": [
     {
       "asset": "cover.jpg",
@@ -15,22 +15,22 @@
     },
     {
       "asset": "sample-01.jpg",
-      "page": 7,
+      "page": 9,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "e925aa7d9e51298c231e4a1adb6e191df6b2dc5c2bb731eb38d9f5d19eee50f6",
+      "sha256": "afe35132282ae8655151a51c8f911e764dd2de71aacd521bc4c39e438915dc32",
       "backend": "pdfium"
     },
     {
       "asset": "sample-02.jpg",
-      "page": 10,
+      "page": 20,
       "dimensions": [
-        1200,
-        1703
+        583,
+        827
       ],
-      "sha256": "ba7e033b533223877ccb8c6b0ef812ecd3de834a3a262c739032d90bf8907c72",
+      "sha256": "bcf73ef3fbea07c88c4fb419d07731085b1efc637af1c5d5408761afdb541419",
       "backend": "pdfium"
     }
   ]
